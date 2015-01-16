@@ -2,4 +2,6 @@
 
 ##Historico de proyectos
 
-Sitio desarrollado por [/johnatanmoran](http://johnatanmoran.com)
+###Subtitulo 3
+
+![Rode Kruis](images/rodekruis-125x50.png) | Historico

@@ -1,8 +1,3 @@
-MDwiki Seed
-===========
+#Historico del trabajo de la Cruz Roja Holandesa en Guatemala
 
-### A basic file layout template that you can fork to build your own websites or wikis with MDwiki.
-
-#### See <http://mdwiki.info/> for details and documentation.
-
-
+Sitio desarrollado por [/johnatanmoran](http://johnatanmoran.com) sobre [MDwiki](http://mdwiki.info)
