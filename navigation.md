@@ -1,7 +1,5 @@
 # Cruz Roja Holandesa
 
-[Acerca](#acerca)
-[Historico](historico.md)
 [Proyectos]()
 
   * [Proyecto 1](proyectos/p01.md)
