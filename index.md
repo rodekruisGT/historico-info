@@ -25,8 +25,9 @@ Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce i
 
 ###Agradecimientos
 
-![](images/rodekruis-125x50.png)
 Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
+
+![](images/rodekruis-125x50.png)
 
 [p01]: proyectos/p01.md	"Proyecto 1"
 [p02]: proyectos/p02.md	"Proyecto 2"

@@ -16,7 +16,6 @@
   * [Proyecto 5](proyectos/p12.md)
   * [Proyecto 6](proyectos/p13.md)
   * [Proyecto 7](proyectos/p14.md)
-  
+
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](bootsrap)
-
