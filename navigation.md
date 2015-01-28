@@ -1,5 +1,7 @@
 # Cruz Roja Holandesa
 
+[Historico de Proyectos](index.md#Historico_de_proyectos)
+
 [Proyectos]()
 
   * [Proyecto 1](proyectos/p01.md)
@@ -16,6 +18,8 @@
   * [Proyecto 5](proyectos/p12.md)
   * [Proyecto 6](proyectos/p13.md)
   * [Proyecto 7](proyectos/p14.md)
+
+[Agradecimientos](index.md#Agradecimientos)
 
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](bootsrap)
