@@ -27,7 +27,11 @@ Por último, estamos implementando un programa llamado 'Los bebés resilientes',
 
 ##Agradecimientos
 
-Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
+Quisieramos brindarle agradecimiento a:
+
+* Persona 1
+* Persona 2
+* Persona 3
 
 ![](images/rodekruis-125x50.png)
 
