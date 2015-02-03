@@ -11,26 +11,17 @@
 | Tiempo de ejecución | 3 Años                      |
 
 ##Antecedentes
-Desde 1998, la NRK(*Nederlandse Rode Kruis*) apoya al municipo de Cobán, departamento de Alta Verapaz en Guatemala, con el programa "Desarrollo Humano".
-
-El área de trabajo del departamento de Cobán para este programa incluye 55 aldeas en Secopur, Alta Verapaz.
+Desde 1998, la NRK (*Nederlandse Rode Kruis*) apoya al municipo de Cobán, departamento de Alta Verapaz en Guatemala, con el programa "Desarrollo Humano". El área de trabajo del departamento de Cobán para este programa incluye 55 aldeas en Secopur, Alta Verapaz.
 
 El gobierno local financia el programa de salud básica:
+
 * Clínicas médicas por un médico y enfermera y suministro de medicamentos esenciales
 * Los programas de vacunación
 * La prevención y la educación
 
-##Antecedentes
-La NRK financia el transporte (Camionetillas, dos motos e incluso algunos burros para llegar a las aldeas más remotas).
+La NRK financia el transporte (Camionetillas, dos motos e incluso algunos burros para llegar a las aldeas más remotas). Además, la NRK también financia el componente de "desarrollo comunitario" en el programa: micro-proyectos para mejorar el nivel de vida en los pueblos. Los ejemplos incluyen la construcción o mejora de un puesto de salud, aulas, letrinas, agua y molinos de maíz.
 
-Además, la NRK también financia el componente de "desarrollo comunitario" en el programa: micro-proyectos para mejorar el nivel de vida en los pueblos.
-
-Los ejemplos incluyen la construcción o mejora de un puesto de salud, aulas, letrinas, agua y molinos de maíz.
-
-Un requisito previo importante para la ejecución de estos proyectos es la participación de la propia población. Se solicita una contribución en forma de mano de obra no calificada y materiales locales tales como la arena y el agua. La NRK financiar la experiencia técnica y material.
-
-Destinado a ayudar a la población desplazada que ha retornado como resultado de los Acuerdos firmados de Paz.
-
+Un requisito previo importante para la ejecución de estos proyectos es la participación de la propia población. Se solicita una contribución en forma de mano de obra no calificada y materiales locales tales como la arena y el agua. La NRK financiar la experiencia técnica y material. Destinado a ayudar a la población desplazada que ha retornado como resultado de los Acuerdos firmados de Paz.
 
 
 ##Ubicación
@@ -40,19 +31,19 @@ Destinado a ayudar a la población desplazada que ha retornado como resultado de
 
 ##Documentos
 ####Detalle de gastos de construccion de Cede en Cobán. (Ingles)
-<a class="media {}" href="docs/p01/gt-coban-branch-expendit.xls"></a>
-<a class="descarga-xls" href="docs/p01/gt-coban-branch-expendit.xls">Descargar</a>
+<a class="media {}" href="docs/p01/gt-coban-branch-expendit.pdf"></a>
+<a class="descarga-xls" href="docs/p01/gt-coban-branch-expendit.pdf">Descargar</a>
 
 ####Estudio de la Incidencia y Tratamiento de Anemia en Mujeres en el area de Secopur, Alta Verapaz.
-<a class="media {}" href="docs/p01/estudio-anemia-secopur.doc"></a>
-<a class="descarga-docs" href="docs/p01/estudio-anemia-secopur.doc">Descargar</a>
-<a class="descarga-doc" href="docs/p01/study-anemia-secopur.doc">Descargar en Ingles</a>
+<a class="media {}" href="docs/p01/estudio-anemia-secopur.pdf"></a>
+<a class="descarga-docs" href="docs/p01/estudio-anemia-secopur.pdf">Descargar</a>
+<a class="descarga-doc" href="docs/p01/study-anemia-secopur.pdf">Descargar en Ingles</a>
 
 ####Proyecto de Calzada en Rubelyn, SeccoPur, Alta Verapaz. (Holandes)
 <a class="media {}" href="docs/p01/loopbrug-rubelyn-seccopur.doc"></a>
 <a class="descarga-docs" href="docs/p01/loopbrug-rubelyn-seccopur.doc">Descargar</a>
 
-####Proyecto de Construcción de Galleneros en las aldeas de Las Conchas, Rocatzin, Monte Olivio, Guadalupe y Sactela. (Holandes)
+####Proyecto de Construcción de Galleneros en las aldeas de Las Conchas, Rocatzin, Monte Olivio, Guadalupe y Sactela. (Holandes)  
 <a class="media {}" href="docs/p01/kippenhokken-voor-leghennen.doc"></a>
 <a class="descarga-docs" href="docs/p01/kippenhokken-voor-leghennen.doc">Descargar</a>
 
@@ -62,48 +53,50 @@ Destinado a ayudar a la población desplazada que ha retornado como resultado de
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-#CHACA
+#Cooperación Holandesa para Ayuda en Centroamérica - CHACA -
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ##Detalles del Proyecto
-| Descripción         | Detalle   |
-|:--------------------|:---------:|
-| Nombre del proyecto | Nombre    |
-| Donante             | Donante   |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
-| Tiempo de ejecución | X Años    |
+| Descripción         | Detalle                                                     |
+|:--------------------|:-----------------------------------------------------------:|
+| Nombre del proyecto | Cooperación Holandesa para Ayuda en Centroamérica - CHACA - |
+| Donante             | Cooperación Holandesa                                       |
+| Socios Nacionales   | Proyecto regional (Honduras/Guatemala/Nicaragua)            |
+| Presupuesto total   | 850.000 €                                                   |
+| Años de ejecución   | 1999 – 2002                                                 |
+| Tiempo de ejecución | 3.5 años                                                    |
 
 
-##Propuesta
-Escribir propuesta aqui.
+## Propuesta
+A finales de Octubre de 1998, América Central fue afectada por el paso del huracán MITCH, provocando pérdidas humanas, económicas y daños a la infraestructura en general y de cultivos, en los países de Honduras, Nicaragua y Guatemala. La Cruz Roja Holandesa respondiendo al llamamiento internacional de ayuda realizado por la Cruz Roja de los países centroamericanos, envió en diciembre de 1998 una misión para identificar los daños causados por el Huracán Mitch, dando como resultado el diseño e implementación del programa bilateral Cooperación Holandesa para ayudar a Centroamérica (Programa CHACA) con una duración de tres años. Para el desarrollo del proyecto se firmó un Memorando de entendimiento con las Sociedades Nacionales de la Cruz Roja en cada uno de los tres países.
 
 ##Antecedentes
 Escribir los antecedentes aquí.
 
 ##Ubicación
-###Departamento
-####Municipio
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
+###Departamentos:
+* Alta Verapaz
+* Petén
 
-##Objetivos
+####Municipios:
+* La Libertad (Petén)
+* Sayaxché (Petén)
+* Chisec (Alta Verapaz)
+* Cobán (Alta Verapaz)
 
-###Objetivo General
-Escribir objetivo general aquí.
+[gimmick:googlemaps(maptype: 'terrain', zoom: 9, marker: 'true')](La Libertad, Petén)
+[gimmick:googlemaps(maptype: 'terrain', zoom: 9, marker: 'true')](Sayaxché, Petén)
+[gimmick:googlemaps(maptype: 'terrain', zoom: 9, marker: 'true')](Cobán, Alta Verapaz)
+[gimmick:googlemaps(maptype: 'terrain', zoom: 9, marker: 'true')](Chisec. Alta Verapaz)
 
-###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
 
 ##Beneficiarios
-| Descripción                     | Detalle |
-|:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
+| Descripción                     | Detalle       |
+|:--------------------------------|:-------------:|
+| N° beneficiarios                | 1684 Familias |
+| N° de comunidades beneficiarias | 34            |
+| Etnia                           | Q'eqchi'      |
+
 
 ##Documentos
 ###Informes
