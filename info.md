@@ -32,24 +32,24 @@ Un requisito previo importante para la ejecución de estos proyectos es la parti
 ##Documentos
 ####Detalle de gastos de construccion de Cede en Cobán. (Ingles)
 <a class="media {}" href="docs/p01/gt-coban-branch-expendit.pdf"></a>
-<a class="descarga-xls" href="docs/p01/gt-coban-branch-expendit.pdf">Descargar</a>
+<a class="descarga" href="docs/p01/gt-coban-branch-expendit.pdf">Descargar</a>
 
 ####Estudio de la Incidencia y Tratamiento de Anemia en Mujeres en el area de Secopur, Alta Verapaz.
 <a class="media {}" href="docs/p01/estudio-anemia-secopur.pdf"></a>
-<a class="descarga-docs" href="docs/p01/estudio-anemia-secopur.pdf">Descargar</a>
-<a class="descarga-doc" href="docs/p01/study-anemia-secopur.pdf">Descargar en Ingles</a>
+<a class="descarga" href="docs/p01/estudio-anemia-secopur.pdf">Descargar</a>
+<a class="descarga" href="docs/p01/study-anemia-secopur.pdf">Descargar en Ingles</a>
 
 ####Proyecto de Calzada en Rubelyn, SeccoPur, Alta Verapaz. (Holandes)
 <a class="media {}" href="docs/p01/loopbrug-rubelyn-seccopur.doc"></a>
-<a class="descarga-docs" href="docs/p01/loopbrug-rubelyn-seccopur.doc">Descargar</a>
+<a class="descarga" href="docs/p01/loopbrug-rubelyn-seccopur.doc">Descargar</a>
 
 ####Proyecto de Construcción de Galleneros en las aldeas de Las Conchas, Rocatzin, Monte Olivio, Guadalupe y Sactela. (Holandes)  
 <a class="media {}" href="docs/p01/kippenhokken-voor-leghennen.doc"></a>
-<a class="descarga-docs" href="docs/p01/kippenhokken-voor-leghennen.doc">Descargar</a>
+<a class="descarga" href="docs/p01/kippenhokken-voor-leghennen.doc">Descargar</a>
 
 ####Proyecto de Construcción de Molinos de Nixtamal en 14 aldeas de Alta Verapaz. (Holandes)
 <a class="media {}" href="docs/p01/14-aismolens.doc"></a>
-<a class="descarga-docs" href="docs/p01/14-maismolens.doc">Descargar</a>
+<a class="descarga" href="docs/p01/14-maismolens.pdf">Descargar</a>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
