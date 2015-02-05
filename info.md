@@ -6,9 +6,9 @@
 | Descripción         | Detalle			            |
 |:--------------------|:---------------------------:|
 | Nombre del proyecto | Programa para el Desarrollo |
-| Donante             | Cooperación Holandesa       |
-| Años de ejecución   | 1997 - 2000                 |
-| Tiempo de ejecución | 3 Años                      |
+| Donante             | Cooperación Holandesa |
+| Años de ejecución   | 1997 - 2000 |
+| Tiempo de ejecución | 3 Años |
 
 
 ##Antecedentes
@@ -62,9 +62,9 @@ Un requisito previo importante para la ejecución de estos proyectos es la parti
 |:--------------------|:-----------------------------------------------------------:|
 | Nombre del proyecto | Cooperación Holandesa para Ayuda en Centroamérica - CHACA - |
 | Donante             | Comisión Europea, Programa Regional de para América Latina- PRRAC |
-| Socios Nacionales   | Proyecto regional (Honduras/Guatemala/Nicaragua)            |
-| Presupuesto total   | 850.000 €                                                   |
-| Años de ejecución   | 1999 – 2002                                                 |
+| Socios Nacionales   | Proyecto regional (Honduras/Guatemala/Nicaragua) |
+| Presupuesto total   | 850.000€ |
+| Años de ejecución   | 1999 – 2002 |
 | Tiempo de ejecución | 3.5 años                                                    |
 
 
@@ -186,8 +186,8 @@ Escribir los antecedentes aquí.
 |:--------------------|:---------:|
 | Nombre del proyecto | Atención a la salud preventiva, agua y saneamiento en 12 comunidades de Alta Verapaz, Guatemala  |
 | Donante             | ECHO |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
+| Presupuesto total   | 588,684.98€ |
+| Año de ejecución    | 2003 - 2005 |
 | Tiempo de ejecución | X Años    |
 
 
@@ -309,8 +309,8 @@ Escribir objetivo general aquí.
 |:--------------------|:---------:|
 | Nombre del proyecto | Fortalecimiento de las Capacidades para la mitigación de desastres en el Municipio de Cobán y 30 comunidades de la cuenca del Río Chixoy  |
 | Donante             | ECHO |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
+| Presupuesto total   | 325,719.27€ |
+| Año de ejecución    | 2004 - 2006 |
 | Tiempo de ejecución | X Años    |
 
 
@@ -430,10 +430,10 @@ Escribir objetivo general aquí.
 ##Detalles del Proyecto
 | Descripción         | Detalle   |
 |:--------------------|:---------:|
-| Nombre del proyecto | Reduciendo los Riesgos en Comunidades Vulnerables del  Municipio de Santo Domingo, Departamento de Suchitepéquez, Guatemala  |
-| Donante             | Loteria del Código Postal de Holanda  |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
+| Nombre del proyecto | Reduciendo los Riesgos en Comunidades Vulnerables del  Municipio de Santo Domingo, Departamento de Suchitepéquez, Guatemala |
+| Donante             | Loteria del Código Postal de Holanda |
+| Presupuesto total   | 396,767.00€ |
+| Año de ejecución    | 2006 - 2008 |
 | Tiempo de ejecución | X Años    |
 
 
@@ -555,8 +555,8 @@ Escribir objetivo general aquí.
 |:--------------------|:---------:|
 | Nombre del proyecto | Fortaleciendo capacidades ante los riesgos de Cambio Climático en el Oriente de Guatemala  |
 | Donante             | Loteria del Código Postal de Holanda |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
+| Presupuesto total   | 125.722,29€ |
+| Año de ejecución    | 2006 - 2007 |
 | Tiempo de ejecución | X Años    |
 
 
@@ -678,8 +678,8 @@ Escribir objetivo general aquí.
 |:--------------------|:---------:|
 | Nombre del proyecto | Reducción de Vulnerabilidades ante los efectos del Cambio Climático en Guatemala, Fase II |
 | Donante             | Donante   |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
+| Presupuesto total   | 390,000.00€ |
+| Año de ejecución    | 2008 - 2009 |
 | Tiempo de ejecución | X Años    |
 
 
@@ -801,8 +801,8 @@ Escribir objetivo general aquí.
 |:--------------------|:---------:|
 | Nombre del proyecto | Trabajando juntos podemos reducir los riesgos en las comunidades vulnerables de Champerico y Retalhuleu, Guatemala  |
 | Donante             | ECHO |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
+| Presupuesto total   | 515,000.00€ |
+| Año de ejecución    | 2008 - 2010 |
 | Tiempo de ejecución | X Años    |
 
 
@@ -924,8 +924,8 @@ Escribir objetivo general aquí.
 |:--------------------|:---------:|
 | Nombre del proyecto | Respuesta inmediata ante las inundaciones provocadas por la Tormenta AGATHA, en la región suroccidente de Guatemala |
 | Donante             | ECHO |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
+| Presupuesto total   | 380,000.00€ |
+| Año de ejecución    | 2010 |
 | Tiempo de ejecución | X Años    |
 
 
@@ -1047,8 +1047,8 @@ Escribir objetivo general aquí.
 |:--------------------|:---------:|
 | Nombre del proyecto | Fortaleciendo la Resiliencia de las comunidades ante los efectos de los desastres en parcelamiento La Máquina, Suchitepéquez y Retalhuleu |
 | Donante             | ECHO |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
+| Presupuesto total   | 543,254.00€ |
+| Año de ejecución    | 2010 - 2011 |
 | Tiempo de ejecución | X Años    |
 
 
@@ -1170,8 +1170,8 @@ Escribir objetivo general aquí.
 |:--------------------|:---------:|
 | Nombre del proyecto | Reducción del riesgo de desastres incrementados por el Cambio Climático |
 | Donante             | Gobierno de los Paises Bajos |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
+| Presupuesto total   | 1,229,492.00€ |
+| Año de ejecución    | 2011 - 2014 |
 | Tiempo de ejecución | X Años    |
 
 
@@ -1293,8 +1293,8 @@ Escribir objetivo general aquí.
 |:--------------------|:---------:|
 | Nombre del proyecto | Respuesta Inmediata a los efectos de los sismos en el departamento de Santa Rosa, Guatemala |
 | Donante             | ECHO |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
+| Presupuesto total   | 200,000.00€ |
+| Año de ejecución    | 2012 - 2012 |
 | Tiempo de ejecución | X Años    |
 
 
@@ -1416,8 +1416,8 @@ Escribir objetivo general aquí.
 |:--------------------|:---------:|
 | Nombre del proyecto | Aumentando la resiliencia ante los desastres en el departamento del Peten, Guatemala |
 | Donante             | ECHO |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
+| Presupuesto total   | 628,294.00€ |
+| Año de ejecución    | 2012 - 2013 |
 | Tiempo de ejecución | X Años    |
 
 
@@ -1539,8 +1539,8 @@ Escribir objetivo general aquí.
 |:--------------------|:---------:|
 | Nombre del proyecto | Mejorando la Salud Materno Neonatal de Comunidades Vulnerables de San Marcos, Guatemala |
 | Donante             | Fondos Propios CRH |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
+| Presupuesto total   | 618,216.79€ |
+| Año de ejecución    | 2013 - 2014 |
 | Tiempo de ejecución | X Años    |
 
 
@@ -1653,47 +1653,6 @@ Escribir objetivo general aquí.
 [](http://www.youtube.com/watch?v=RMINSD7MmT4)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-
-
-
-
-Presupuesto total
-
-EUR  850.000
-EUR 588,684.98
-EUR325,719.27
-EUR396,767.00
-Cruz Roja Holandesa € 107.222.29 | Cruz Roja Guatemala (bienes y tiempo) €5.500,00 | Beneficiarios € 13,000,00 | Total € 125.722,29
-EUR390,000.00
-EUR515,000.00
-EUR380,000.00
-EUR543,254.00
-EUR1,229,492.00
-EUR200,000.00
-EUR628,294.00
-EUR618,216.79
-
-
-
-
-
-Año de ejecución
-1997 - 2000
-1999 – 2002
-2003 - 2005
-2004 - 2006
-2006 - 2008
-2006 - 2007
-2008 - 2009
-2008 - 2010
-2010
-2010 - 2011
-2011 - 2014
-2012 - 2012
-2012 - 2013
-2013 - 2014																																																
-
 
 
 
@@ -1913,148 +1872,3 @@ Q´eqchi y Qiché
 Mestiza
 Mestiza en su mayoría
 Mestiza y Mam
-[p01]: proyectos/p01.md	"Programa para el Desarrollo"
-[p02]: proyectos/p02.md	"Cooperación Holandesa para Ayuda en Centroamérica -CHACA-"
-[p03]: proyectos/p03.md	"Atención a la salud preventiva, agua y saneamiento en 12 comunidades de Alta Verapaz, Guatemala"
-[p04]: proyectos/p04.md	"Fortalecimiento de las Capacidades para la mitigación de desastres en el Municipio de Cobán y 30 comunidades de la cuenca del Río Chixoy"
-[p05]: proyectos/p05.md	"Reduciendo los Riesgos en Comunidades Vulnerables del  Municipio de Santo Domingo, Departamento de Suchitepéquez, Guatemala"
-[p06]: proyectos/p06.md	"Fortaleciendo capacidades ante los riesgos de Cambio Climático en el Oriente de Guatemala"
-[p07]: proyectos/p07.md	"Reducción de Vulnerabilidades ante los efectos del Cambio Climático en Guatemala, Fase II"
-[p08]: proyectos/p08.md	"Trabajando juntos podemos reducir los riesgos en las comunidades vulnerables de Champerico y Retalhuleu, Guatemala"
-[p09]: proyectos/p09.md	"Respuesta inmediata ante las inundaciones provocadas por la Tormenta AGATHA, en la región suroccidente de Guatemala"
-[p10]: proyectos/p10.md	"Fortaleciendo la Resiliencia de las comunidades ante los efectos de los desastres en parcelamiento La Máquina, Suchitepéquez y Retalhuleu"
-[p11]: proyectos/p11.md	"Reducción del riesgo de desastres incrementados por el Cambio Climático"
-[p12]: proyectos/p12.md	"Respuesta Inmediata a los efectos de los sismos en el departamento de Santa Rosa, Guatemala"
-[p13]: proyectos/p13.md	"Aumentando la resiliencia ante los desastres en el departamento del Peten, Guatemala"
-[p14]: proyectos/p14.md	"Mejorando la Salud Materno Neonatal de Comunidades Vulnerables de San Marcos, Guatemala"
-
-<script type="text/javascript">$('.media').media();</script>
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-#Proyecto Genérico
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-##Detalles del Proyecto
-| Descripción         | Detalle   |
-|:--------------------|:---------:|
-| Nombre del proyecto | Nombre    |
-| Donante             | Donante   |
-| Presupuesto total   | 0€        |
-| Año de ejecución    | 20XX      |
-| Tiempo de ejecución | X Años    |
-
-
-##Propuesta
-Escribir propuesta aqui.
-
-##Antecedentes
-Escribir los antecedentes aquí.
-
-##Ubicación
-###Departamento
-####Municipio
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
-
-##Objetivos
-
-###Objetivo General
-Escribir objetivo general aquí.
-
-###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
-
-##Beneficiarios
-| Descripción                     | Detalle |
-|:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
-
-##Documentos
-###Informes
-####Semestrales
-#####Primer Semestre
-<a class="media {}" href="docs/doc-2.pdf"></a>
-<a class="descarga-pdf" href="../docs/doc-2.pdf">Descargar</a>
-
-####Final
-<a class="media {}" href="docs/doc-2.pdf"></a>
-<a class="descarga-pdf" href="../docs/doc-2.pdf">Descargar</a>
-
-###Sistematizaciónes
-####Sistematización X
-<a class="media {}" href="docs/doc-2.pdf"></a>
-<a class="descarga-pdf" href="../docs/doc-2.pdf">Descargar</a>
-
-##Multimedia
-###Fotos
-
-####Resolución Baja
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-![](http://lorempixel.com/200/150)
-
-- - -
-
-####Resolución Media
-![](http://lorempixel.com/800/600)
-![](http://lorempixel.com/800/600)
-![](http://lorempixel.com/800/600)
-![](http://lorempixel.com/800/600)
-![](http://lorempixel.com/800/600)
-![](http://lorempixel.com/800/600)
-![](http://lorempixel.com/800/600)
-![](http://lorempixel.com/800/600)
-![](http://lorempixel.com/800/600)
-![](http://lorempixel.com/800/600)
-![](http://lorempixel.com/800/600)
-![](http://lorempixel.com/800/600)
-
-- - -
-
-####Resolución Alta
-![](http://lorempixel.com/1600/1200)
-![](http://lorempixel.com/1600/1200)
-![](http://lorempixel.com/1600/1200)
-![](http://lorempixel.com/1600/1200)
-![](http://lorempixel.com/1600/1200)
-![](http://lorempixel.com/1600/1200)
-
-![](http://lorempixel.com/1600/1200)
-![](http://lorempixel.com/1600/1200)
-![](http://lorempixel.com/1600/1200)
-![](http://lorempixel.com/1600/1200)
-![](http://lorempixel.com/1600/1200)
-![](http://lorempixel.com/1600/1200)
-
-- - -
-
-###Videos
-#### Video realizado 1
-[](http://www.youtube.com/watch?v=RMINSD7MmT4)
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
