@@ -3,7 +3,7 @@
 
 ##Detalles del Proyecto
 
-| Descripción         | Detalle			        		    |
+| Descripción         | Detalle			            |
 |:--------------------|:---------------------------:|
 | Nombre del proyecto | Programa para el Desarrollo |
 | Donante             | Cruz Roja Holandesa         |

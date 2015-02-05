@@ -29,9 +29,7 @@ Por último, estamos implementando un programa llamado 'Los bebés resilientes',
 
 Quisieramos brindarle agradecimiento a:
 
-* Persona 1
-* Persona 2
-* Persona 3
+* Cruz Roja Guatemalteca
 
 ![](images/rodekruis-125x50.png)
 
