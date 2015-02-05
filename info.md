@@ -8,7 +8,7 @@
 | Nombre del proyecto | Programa para el Desarrollo |
 | Donante             | Cooperación Holandesa |
 | Años de ejecución   | 1997 - 2000 |
-| Tiempo de ejecución | 3 Años |
+| Tiempo de ejecución | 3 años |
 
 
 ##Antecedentes
@@ -65,7 +65,7 @@ Un requisito previo importante para la ejecución de estos proyectos es la parti
 | Socios Nacionales   | Proyecto regional (Honduras/Guatemala/Nicaragua) |
 | Presupuesto total   | 850.000€ |
 | Años de ejecución   | 1999 – 2002 |
-| Tiempo de ejecución | 3.5 años                                                    |
+| Tiempo de ejecución | 3.5 años (01/01/1999 al 01/06/2002) |
 
 
 ## Propuesta
@@ -188,7 +188,7 @@ Escribir los antecedentes aquí.
 | Donante             | ECHO |
 | Presupuesto total   | 588,684.98€ |
 | Año de ejecución    | 2003 - 2005 |
-| Tiempo de ejecución | X Años    |
+| Tiempo de ejecución | 26 meses (01/07/2003 al 01/09/2005) |
 
 
 ##Propuesta
@@ -311,7 +311,7 @@ Escribir objetivo general aquí.
 | Donante             | ECHO |
 | Presupuesto total   | 325,719.27€ |
 | Año de ejecución    | 2004 - 2006 |
-| Tiempo de ejecución | X Años    |
+| Tiempo de ejecución | 15 meses (01/02/2005 al 30/04/2006) |
 
 
 ##Propuesta
@@ -434,7 +434,7 @@ Escribir objetivo general aquí.
 | Donante             | Loteria del Código Postal de Holanda |
 | Presupuesto total   | 396,767.00€ |
 | Año de ejecución    | 2006 - 2008 |
-| Tiempo de ejecución | X Años    |
+| Tiempo de ejecución | 15 meses (01/02/2007 al 30/04/2008) |
 
 
 ##Propuesta
@@ -557,7 +557,7 @@ Escribir objetivo general aquí.
 | Donante             | Loteria del Código Postal de Holanda |
 | Presupuesto total   | 125.722,29€ |
 | Año de ejecución    | 2006 - 2007 |
-| Tiempo de ejecución | X Años    |
+| Tiempo de ejecución | 20 meses (01/03/2006 al 31/12/2007) |
 
 
 ##Propuesta
@@ -680,7 +680,7 @@ Escribir objetivo general aquí.
 | Donante             | Donante   |
 | Presupuesto total   | 390,000.00€ |
 | Año de ejecución    | 2008 - 2009 |
-| Tiempo de ejecución | X Años    |
+| Tiempo de ejecución | 20 meses (10/04/2008 al 30/11/2009) |
 
 
 ##Propuesta
@@ -803,7 +803,7 @@ Escribir objetivo general aquí.
 | Donante             | ECHO |
 | Presupuesto total   | 515,000.00€ |
 | Año de ejecución    | 2008 - 2010 |
-| Tiempo de ejecución | X Años    |
+| Tiempo de ejecución | 15 meses (15/09/2008 al 28/02/2010) |
 
 
 ##Propuesta
@@ -926,7 +926,7 @@ Escribir objetivo general aquí.
 | Donante             | ECHO |
 | Presupuesto total   | 380,000.00€ |
 | Año de ejecución    | 2010 |
-| Tiempo de ejecución | X Años    |
+| Tiempo de ejecución | 3 meses (29/05/2010 al 30/08/2010) |
 
 
 ##Propuesta
@@ -1049,7 +1049,7 @@ Escribir objetivo general aquí.
 | Donante             | ECHO |
 | Presupuesto total   | 543,254.00€ |
 | Año de ejecución    | 2010 - 2011 |
-| Tiempo de ejecución | X Años    |
+| Tiempo de ejecución | 15 meses (01/09/2010 al 31/12/2011) |
 
 
 ##Propuesta
@@ -1172,7 +1172,7 @@ Escribir objetivo general aquí.
 | Donante             | Gobierno de los Paises Bajos |
 | Presupuesto total   | 1,229,492.00€ |
 | Año de ejecución    | 2011 - 2014 |
-| Tiempo de ejecución | X Años    |
+| Tiempo de ejecución | 4 años (01/01/2011 al 31/12/2014) |
 
 
 ##Propuesta
@@ -1295,7 +1295,7 @@ Escribir objetivo general aquí.
 | Donante             | ECHO |
 | Presupuesto total   | 200,000.00€ |
 | Año de ejecución    | 2012 - 2012 |
-| Tiempo de ejecución | X Años    |
+| Tiempo de ejecución | 5 meses (01/10/2011 al 30/02/2012) |
 
 
 ##Propuesta
@@ -1418,7 +1418,7 @@ Escribir objetivo general aquí.
 | Donante             | ECHO |
 | Presupuesto total   | 628,294.00€ |
 | Año de ejecución    | 2012 - 2013 |
-| Tiempo de ejecución | X Años    |
+| Tiempo de ejecución | 18 meses |
 
 
 ##Propuesta
@@ -1541,7 +1541,7 @@ Escribir objetivo general aquí.
 | Donante             | Fondos Propios CRH |
 | Presupuesto total   | 618,216.79€ |
 | Año de ejecución    | 2013 - 2014 |
-| Tiempo de ejecución | X Años    |
+| Tiempo de ejecución | 24 meses |
 
 
 ##Propuesta
@@ -1654,27 +1654,7 @@ Escribir objetivo general aquí.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-
-
-
-Tiempo de ejecución
-3 años
-3.5 años (01/01/1999 al 01/06/2002)
-26 meses (01/07/2003 al 01/09/2005)
-15 meses (01/02/2005 al 30/04/2006)
-15 meses (01/02/2007 al 30/04/2008)
-20 meses (01/03/2006 al 31/12/2007)
-20 meses (10/04/2008 al 30/11/2009)
-15 meses (15/09/2008 al 28/02/2010)
-3 meses (29/05/2010 al 30/08/2010)
-15 meses (01/09/2010 al 31/12/2011)
-4 años (01/01/2011 al 31/12/2014)
-5 meses (01/10/2011 al 30/02/2012)
-18 meses
-24 meses
-
 Propuesta
-
 
 
 Antecedentes
