@@ -80,13 +80,12 @@ Escribir los antecedentes aquí.
 
 ####Municipios:
 * La Libertad (Petén)
-* Sayaxché (Petén)
-* Chisec (Alta Verapaz)
-* Cobán (Alta Verapaz)
-
 [gimmick:googlemaps(maptype: 'terrain', zoom: 9, marker: 'true')](La Libertad, Petén)
+* Sayaxché (Petén)
 [gimmick:googlemaps(maptype: 'terrain', zoom: 9, marker: 'true')](Sayaxché, Petén)
+* Chisec (Alta Verapaz)
 [gimmick:googlemaps(maptype: 'terrain', zoom: 9, marker: 'true')](Cobán, Alta Verapaz)
+* Cobán (Alta Verapaz)
 [gimmick:googlemaps(maptype: 'terrain', zoom: 9, marker: 'true')](Chisec. Alta Verapaz)
 
 
