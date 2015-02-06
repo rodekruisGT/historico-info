@@ -92,8 +92,9 @@ A finales de Octubre de 1998, América Central fue afectada por el paso del hura
 Rehabilitar y reconstruir la infraestructura de vivienda, servicios comunitarios, actividades económicas y de empleo, y servicios de salud y educación de las comunidades afectadas por el Huracán Mitch en los departamentos de Alta Verapaz y El Petén de Guatemala, mediante el apoyo y acción directa de la sede central y las  delegaciónes de la CRG.
 
 ###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
+1. Rehabilitación y reconstrucción comunitaria basada en la participación activa de la comunidad y el desarrollo sostenible
+2. Preparación y respuesta a desastres de las comunidades y las cruces rojas
+3. Desarrollo institucional de las delegaciones y sedes de la Cruz Roja para garantizar la ejecución del programa y para asegurar la respuesta a los desastres y las necesidades.
 
 ##Beneficiarios
 | Descripción                     | Detalle       |
@@ -109,128 +110,122 @@ Rehabilitar y reconstruir la infraestructura de vivienda, servicios comunitarios
 [](http://youtu.be/T1d_02MlYEM)
 <a class="descarga-pdf" href="docs/p02/informes/informe-final-chaca.pps">Descargar PPS</a>
 
-###Sistematizaciónes
-####Sistematización X
-<a class="media {}" href="docs/doc-2.pdf"></a>
-<a class="descarga-pdf" href="../docs/doc-2.pdf">Descargar</a>
-
 ##Multimedia
 ###Fotos
-
-####Resolución Baja
-![](http://lorempixel.com/200/150)
-
 - - -
 
 ####Resolución Media
-![](docs/p02/fotos/01.JPG)
-![](docs/p02/fotos/02.JPG)
-![](docs/p02/fotos/03.JPG)
-![](docs/p02/fotos/04.JPG)
-![](docs/p02/fotos/05.JPG)
-![](docs/p02/fotos/06.JPG)
+![](../docs/p02/fotos/01.JPG)
+![](../docs/p02/fotos/02.JPG)
+![](../docs/p02/fotos/03.JPG)
+![](../docs/p02/fotos/04.JPG)
 
-![](docs/p02/fotos/07.JPG)
-![](docs/p02/fotos/08.JPG)
-![](docs/p02/fotos/09.JPG)
-![](docs/p02/fotos/10.JPG)
-![](docs/p02/fotos/11.JPG)
-![](docs/p02/fotos/12.JPG)
+![](../docs/p02/fotos/05.JPG)
+![](../docs/p02/fotos/06.JPG)
+![](../docs/p02/fotos/08.JPG)
+![](../docs/p02/fotos/09.JPG)
 
-![](docs/p02/fotos/13.JPG)
-![](docs/p02/fotos/14.JPG)
-![](docs/p02/fotos/15.JPG)
-![](docs/p02/fotos/16.JPG)
-![](docs/p02/fotos/17.JPG)
-![](docs/p02/fotos/18.JPG)
+![](../docs/p02/fotos/10.JPG)
+![](../docs/p02/fotos/11.JPG)
+![](../docs/p02/fotos/12.JPG)
+![](../docs/p02/fotos/13.JPG)
 
-![](docs/p02/fotos/19.JPG)
-![](docs/p02/fotos/20.JPG)
-![](docs/p02/fotos/21.JPG)
-![](docs/p02/fotos/22.JPG)
-![](docs/p02/fotos/23.JPG)
-![](docs/p02/fotos/24.JPG)
+![](../docs/p02/fotos/14.JPG)
+![](../docs/p02/fotos/15.JPG)
+![](../docs/p02/fotos/17.JPG)
+![](../docs/p02/fotos/18.JPG)
 
-![](docs/p02/fotos/25.JPG)
-![](docs/p02/fotos/26.JPG)
-![](docs/p02/fotos/27.JPG)
-![](docs/p02/fotos/29.JPG)
-![](docs/p02/fotos/30.JPG)
-![](docs/p02/fotos/31.JPG)
+![](../docs/p02/fotos/19.JPG)
+![](../docs/p02/fotos/20.JPG)
+![](../docs/p02/fotos/21.JPG)
+![](../docs/p02/fotos/22.JPG)
 
-![](docs/p02/fotos/32.JPG)
-![](docs/p02/fotos/33.JPG)
-![](docs/p02/fotos/34.JPG)
-![](docs/p02/fotos/35.JPG)
-![](docs/p02/fotos/36.JPG)
-![](docs/p02/fotos/37.JPG)
+![](../docs/p02/fotos/23.JPG)
+![](../docs/p02/fotos/24.JPG)
+![](../docs/p02/fotos/29.JPG)
+![](../docs/p02/fotos/30.JPG)
 
-![](docs/p02/fotos/38.JPG)
-![](docs/p02/fotos/39.JPG)
-![](docs/p02/fotos/40.JPG)
-![](docs/p02/fotos/41.JPG)
-![](docs/p02/fotos/42.JPG)
-![](docs/p02/fotos/43.JPG)
+![](../docs/p02/fotos/31.JPG)
+![](../docs/p02/fotos/33.JPG)
+![](../docs/p02/fotos/34.JPG)
+![](../docs/p02/fotos/35.JPG)
 
-![](docs/p02/fotos/44.JPG)
-![](docs/p02/fotos/45.JPG)
-![](docs/p02/fotos/46.JPG)
-![](docs/p02/fotos/47.JPG)
-![](docs/p02/fotos/48.JPG)
-![](docs/p02/fotos/49.JPG)
+![](../docs/p02/fotos/36.JPG)
+![](../docs/p02/fotos/37.JPG)
+![](../docs/p02/fotos/38.JPG)
+![](../docs/p02/fotos/39.JPG)
 
-![](docs/p02/fotos/50.JPG)
-![](docs/p02/fotos/51.JPG)
-![](docs/p02/fotos/52.JPG)
-![](docs/p02/fotos/53.JPG)
-![](docs/p02/fotos/54.JPG)
+![](../docs/p02/fotos/42.JPG)
+![](../docs/p02/fotos/43.JPG)
+![](../docs/p02/fotos/44.JPG)
+![](../docs/p02/fotos/45.JPG)
 
-![](docs/p02/fotos/55.JPG)
-![](docs/p02/fotos/56.JPG)
-![](docs/p02/fotos/57.JPG)
-![](docs/p02/fotos/58.JPG)
-![](docs/p02/fotos/59.JPG)
-![](docs/p02/fotos/60.JPG)
+![](../docs/p02/fotos/46.JPG)
+![](../docs/p02/fotos/48.JPG)
+![](../docs/p02/fotos/49.JPG)
+![](../docs/p02/fotos/50.JPG)
 
-![](docs/p02/fotos/61.JPG)
-![](docs/p02/fotos/62.JPG)
-![](docs/p02/fotos/64.JPG)
-![](docs/p02/fotos/65.JPG)
-![](docs/p02/fotos/66.JPG)
-![](docs/p02/fotos/67.JPG)
+![](../docs/p02/fotos/53.JPG)
+![](../docs/p02/fotos/56.JPG)
+![](../docs/p02/fotos/57.JPG)
+![](../docs/p02/fotos/58.JPG)
 
-![](docs/p02/fotos/68.JPG)
-![](docs/p02/fotos/71.JPG)
-![](docs/p02/fotos/72.JPG)
-![](docs/p02/fotos/73.JPG)
-![](docs/p02/fotos/74.JPG)
-![](docs/p02/fotos/75.JPG)
+![](../docs/p02/fotos/59.JPG)
+![](../docs/p02/fotos/60.JPG)
+![](../docs/p02/fotos/61.JPG)
+![](../docs/p02/fotos/62.JPG)
 
-![](docs/p02/fotos/76.JPG)
-![](docs/p02/fotos/77.JPG)
-![](docs/p02/fotos/78.JPG)
-![](docs/p02/fotos/80.JPG)
-![](docs/p02/fotos/81.JPG)
-![](docs/p02/fotos/82.JPG)
+![](../docs/p02/fotos/64.JPG)
+![](../docs/p02/fotos/65.JPG)
+![](../docs/p02/fotos/66.JPG)
+![](../docs/p02/fotos/67.JPG)
 
-![](docs/p02/fotos/87.JPG)
-![](docs/p02/fotos/88.JPG)
-![](docs/p02/fotos/89.JPG)
-![](docs/p02/fotos/90.JPG)
-![](docs/p02/fotos/91.JPG)
-![](docs/p02/fotos/92.JPG)
+![](../docs/p02/fotos/68.JPG)
+![](../docs/p02/fotos/71.JPG)
+![](../docs/p02/fotos/72.JPG)
+![](../docs/p02/fotos/75.JPG)
 
-![](docs/p02/fotos/93.JPG)
-![](docs/p02/fotos/96.JPG)
-![](docs/p02/fotos/97.JPG)
-![](docs/p02/fotos/catarata.JPG)
-![](docs/p02/fotos/champey.JPG)
-![](docs/p02/fotos/rubel-chaim.JPG)
+![](../docs/p02/fotos/76.JPG)
+![](../docs/p02/fotos/77.JPG)
+![](../docs/p02/fotos/78.JPG)
+![](../docs/p02/fotos/80.JPG)
 
-- - -
+![](../docs/p02/fotos/81.JPG)
+![](../docs/p02/fotos/82.JPG)
+![](../docs/p02/fotos/87.JPG)
+![](../docs/p02/fotos/88.JPG)
 
-####Resolución Alta
-![](http://lorempixel.com/1600/1200)
+![](../docs/p02/fotos/89.JPG)
+![](../docs/p02/fotos/90.JPG)
+![](../docs/p02/fotos/91.JPG)
+![](../docs/p02/fotos/92.JPG)
+
+![](../docs/p02/fotos/93.JPG)
+![](../docs/p02/fotos/96.JPG)
+![](../docs/p02/fotos/97.JPG)
+
+![](../docs/p02/fotos/catarata.JPG)
+![](../docs/p02/fotos/champey.JPG)
+![](../docs/p02/fotos/rubel-chaim.JPG)
+
+![](../docs/p02/fotos/07.JPG)
+![](../docs/p02/fotos/16.JPG)
+![](../docs/p02/fotos/25.JPG)
+![](../docs/p02/fotos/26.JPG)
+
+![](../docs/p02/fotos/27.JPG)
+![](../docs/p02/fotos/32.JPG)
+![](../docs/p02/fotos/40.JPG)
+![](../docs/p02/fotos/41.JPG)
+
+![](../docs/p02/fotos/47.JPG)
+![](../docs/p02/fotos/51.JPG)
+![](../docs/p02/fotos/52.JPG)
+![](../docs/p02/fotos/54.JPG)
+
+![](../docs/p02/fotos/55.JPG)
+![](../docs/p02/fotos/73.JPG)
+![](../docs/p02/fotos/74.JPG)
 
 - - -
 
@@ -270,19 +265,18 @@ El proyecto CHACA en Guatemala se terminó agosto 2002. Este proyecto forma el p
 ###Objetivo General
 Contribuir a la mejora de las condiciones sanitarias y ambientales en 12 comunidades del departamento de Alta Verapaz, Guatemala.
 
-###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
+###Objetivos Específicos
+1. Mejorar las condiciones de saneamiento básico de los beneficiarios y las beneficiarias del proyecto a través de la educación y el uso de tecnología apropiada para el manejo de los focos de infección.
+2. Disminuir la incidencia de las enfermedades producidas por el manejo del agua para consumo humano, basuras, excretas y aguas residuales.
 
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
 | N° beneficiarios directos       | 3926 |
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
+| N° beneficiarios indirectos     | 246733 |
+| N° de comunidades beneficiarias | 12	|
+| Etnia                           | Q'eqchi' y Pocomchi' |
+
 
 ##Documentos
 ###Informes
@@ -354,18 +348,16 @@ Durante marzo de 2004, la Cruz Roja Guatemalteca Delegación de Cobán y CRH lle
 Chisec y Cobán (Alta Verapaz).
 
 ###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
+1. Las comunidades que habitan en la cuenca del río Chixoy han reforzado su mitigación de desastres, preparación y capacidad de respuesta en concordancia con el sistema CONRED a nivel regional, departamental, municipal y local.
 
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
 | N° beneficiarios directos       | 153050 |
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
+| % hombres                       | 50.25%     |
+| % mujeres                       | 49.75%     |
+| N° de comunidades beneficiarias | 30	|
+| Etnia                           | Q'eqchi'|
 
 ##Documentos
 ###Informes
@@ -437,18 +429,14 @@ Es importante destacar que la Vulnerabilidad es una condición social, económic
 Reducir los riesgos ante desastres, preparando la población vulnerable en las áreas más expuestas a los desastres naturales.
 
 ###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
+1. Fortalecido el Sistema de Reducción de Desastres a nivel regional y nacional, a través del mejoramiento de las capacidades organizativas, de preparación y respuesta en 18 comunidades del Municipio de Santo Domingo Suchitepéquez.
 
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
 | N° beneficiarios directos       | 13260 |
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
+| N° de comunidades beneficiarias | 18	|
+| Etnia                           | Mestizos, Kakchikel, Quiche' y  Mam |
 
 ##Documentos
 ###Informes
@@ -506,20 +494,19 @@ Reducir los riesgos ante desastres, preparando la población vulnerable en las �
 ##Antecedentes
 Las Comunidades Seleccionadas han sido establecidas mediante ciertos criterios:
 * Vulnerabilidad existente:
- * Física: Situación de las viviendas susceptibles a cualquier evento climático y sísmico.
- * Estructural: Sistemas de Organización Comunitaria han sido establecidos en algunos lugares, sin embargo un monitoreo sobre las acciones a nivel comunitario y aportes para su integración y continuidad son requeridos.
+  * Física: Situación de las viviendas susceptibles a cualquier evento climático y sísmico.
+  * Estructural: Sistemas de Organización Comunitaria han sido establecidos en algunos lugares, sin embargo un monitoreo sobre las acciones a nivel comunitario y aportes para su integración y continuidad son requeridos.
 * Amenazas: En la región, desde el año 2000 se ha identificado que los tradicionales sistemas agrícolas utilizados contribuyen a la degradación ambiental, entre otras. Deslizamientos, Inundaciones, Obstrucciones de Caminos, Tormentas Tropicales y Sequías se identifican entre las principales.
 * El historial de desastres en la región ha sido registrado por las Autoridades Municipales como recurrente ante las amenazas descritas. Muy pocas acciones se han implementado para reducir estos riesgos a futuros desastres.
 * Participación e interés Comunitario: Ha sido importante establecer que las Comunidades seleccionadas han manifestado su intención por participar en este tipo de Proyectos que fortalece capacidades y que los recursos en especio o tangibles son limitados.
 
 ##Ubicación
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Chiquimula, Chiquimula)
 ###Departamento
 * Chiquimula
 ####Municipio
 * Chiquimula
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Chiquimula, Chiquimula)
 * San José la Arada
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](San José la Arada, Chiquimula)
 
 ##Objetivos
 
@@ -527,18 +514,14 @@ Las Comunidades Seleccionadas han sido establecidas mediante ciertos criterios:
 Contribuir a una mejor comprensión y actuación ante los riesgos relacionados con el cambio climático en Guatemala para la reducción de la vulnerabilidad de las comunidades intervenidas..
 
 ###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
+1. Integrar el conocimiento sobre los riesgos climáticos en los programas de educación comunitaria de la Cruz Roja en Guatemala, que permita el fortalecimiento a las comunidades más vulnerables expuestas a estos efectos en 11 comunidades en Chiquimula para el año 2007.
 
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
 | N° beneficiarios directos       | 12131 |
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
+| N° de comunidades beneficiarias | 11 |
+| Etnia                           | Mestiza |
 
 ##Documentos
 ###Informes
@@ -597,13 +580,14 @@ Contribuir a una mejor comprensión y actuación ante los riesgos relacionados c
 A partir del año 2006, Cruz Roja Guatemalteca, través de la Secretaría Nacional de Desastres, con el apoyo de Cruz Roja Holandesa, y con el objetivo de Contribuir a una mejor comprensión y actuación ante los riesgos relacionados con el cambio climático en Guatemala para la reducción de la vulnerabilidad, inicia el proyecto Fortaleciendo capacidades ante los riesgos de Cambio Climático en el Oriente de Guatemala, el cual se implementó en 11 comunidades del área rural del departamento de Chiquimula; en el año 2007 finaliza este proyecto dejando muy buenos resultados y experiencias tanto a nivel comunitario como institucional demandando el seguimiento al tema de Cambio Climático en la región, de esta cuenta, se formula, se acepta e inicia el proyecto  Reducción de Vulnerabilidades ante los efectos del Cambio Climático en Guatemala, Fase II el cual está siendo   implementado en otras 14  comunidades del área rural del  departamento de Chiquimula,  el cual finalizará en el mes de septiembre de este año (2009) a través del cual se busca fortalecer la Resiliencia de las personas más vulnerables ante los efectos del Cambio Climático.
 
 ##Ubicación
-###Departamento
-* Chiquimula
-####Municipio
-* Chiquimula
 [gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Chiquimula, Chiquimula)
-* El Estor
 [gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](El Estor, Chiquimula)
+###Departamentos
+* Chiquimula
+* Izabal
+####Municipios
+* Chiquimula
+* El Estor
 
 
 ##Objetivos
@@ -612,18 +596,14 @@ A partir del año 2006, Cruz Roja Guatemalteca, través de la Secretaría Nacion
 Fortalecer la resiliencia de las personas más vulnerables ante los riesgos a desatres por los efectos del Cambio Climático en Guatemala a través de un entendimiento mejorado de la dinámica del tema, capacitación y fortalecimiento a la organización comunitaria desde la perspectiva de género, medidas concretas a nivel comunitario y alianzas con otras organizaciones trabajando en el tema.
 
 ###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
+1. Fortalecer la capacidad de la Cruz Roja Guatemalteca para que apoye a a su vez a fortalecer la capacidad de 12 comunidades en el municipio de El Estor, del Departamento de Izabal con respecto a Respuesta a emergencias por desastres y adaptabilidad para enfrentar los efectos relacionados al Cambio Climático.
 
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
 | N° beneficiarios directos       | 26539 |
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
+| N° de comunidades beneficiarias | 26	|
+| Etnia                           | Q'qchi' y Mestiza |
 
 ##Documentos
 ###Informes
@@ -683,14 +663,12 @@ Fortalecer la resiliencia de las personas más vulnerables ante los riesgos a de
 Debido a la morfología y a la red hidrográfica de la cuenca, se observan aluviones, terrazas aluviales y planicies de inundación. Estos patrones se acentúan en la parte media donde los ríos Izcaya y Nimá I se unen al Samalá, aumentando su caudal y sirve como medio de transporte de material volcánico del Santa María y del Santiaguito el cual azolva el cauce del río provocando su desbordamiento. A la altura de San Felipe Retalhuleu, se unen los ríos Nimá II y el Tambor, lo que hace aumentar aún más el caudal y la amenaza de inundación.
 
 ##Ubicación
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Retalhuleu, Retalhuleu)
 ###Departamento
 * Retalhuleu
-####Municipio
+####Municipios
 * Retalhuleu
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Retalhuleu, Retalhuleu)
 * Champerico
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Champerico, Retalhuleu)
-
 
 ##Objetivos
 
@@ -698,18 +676,17 @@ Debido a la morfología y a la red hidrográfica de la cuenca, se observan aluvi
 Contribuir a la reducción de riesgos, a través de una mejor preparación de las poblaciones vulnerables en las áreas más propensas a desastres en Guatemala.
 
 ###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
+1. Fortalecer la estructura organizacional, así como también, la capacidad y preparación para responder a los eventos hidrometeorológicos, del sistema de respuesta a nivel municipal y comunitario en Champerico
 
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
 | N° beneficiarios directos       | 16449 |
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
+| N° beneficiarios indirectos     | 26554 |
+| % hombres                       | 49% |
+| % mujeres                       | 51% |
+| N° de comunidades beneficiarias | 21 |
+| Etnia                           | Mestiza |
 
 ##Documentos
 ###Informes
@@ -764,15 +741,21 @@ Contribuir a la reducción de riesgos, a través de una mejor preparación de la
 
 
 ##Antecedentes
-Dos días antes a la llegada de la Depresión Tropical Agatha, el Volcán Pacaya inicia un período de actividad volcánica en el Pacaya, seguido de una explosión repentina que expulsó ceniza y rocas volcánicas en los Departamentos cercanos a Escuintla, incluyendo el Departamento de Guatemala. Esta situación provocó la inhabilitación del aeropuerto internacional La Aurora, daños en los sistemas de alcantarillado y colapso de muchos drenajes, lo cual dificultó el drenaje de las aguas llovidas.La población damnificada en los tres lugares, reside en áreas: rural, urbana y semiurbana.--/n--A partir de la evaluación realizada en el terreno se ha determinado que para la atención adecuada de las personas damnificadas, es imperativo desarrollar acciones de distribución de ayuda humanitaria que en el corto plazo permitan: - Proveer de alimentos mientras se avanza en los procesos de rehabilitación en la agricultura en cada lugar. - Proveer de insumos para el acceso al agua potable en condiciones seguras. Mientras se rehabilitan los sistemas de distribución de agua ya existentes y/o se procede a la limpieza de las fuentes de agua (pozos) en las comunidades rurales. - Prevenir la proliferación de enfermedades, provocadas por mosquitos, como el Dengue. Que complemente las acciones de prevención realizadas por el Ministerio de Salud de Guatemala - Procurar condiciones de higiene entre la población..
+Dos días antes a la llegada de la Depresión Tropical Agatha, el Volcán Pacaya inicia un período de actividad volcánica en el Pacaya, seguido de una explosión repentina que expulsó ceniza y rocas volcánicas en los Departamentos cercanos a Escuintla, incluyendo el Departamento de Guatemala. Esta situación provocó la inhabilitación del aeropuerto internacional La Aurora, daños en los sistemas de alcantarillado y colapso de muchos drenajes, lo cual dificultó el drenaje de las aguas llovidas.La población damnificada en los tres lugares, reside en áreas: rural, urbana y semiurbana.
+A partir de la evaluación realizada en el terreno se ha determinado que para la atención adecuada de las personas damnificadas, es imperativo desarrollar acciones de distribución de ayuda humanitaria que en el corto plazo permitan:
+* Proveer de alimentos mientras se avanza en los procesos de rehabilitación en la agricultura en cada lugar.
+* Proveer de insumos para el acceso al agua potable en condiciones seguras. Mientras se rehabilitan los sistemas de distribución de agua ya existentes y/o se procede a la limpieza de las fuentes de agua (pozos) en las comunidades rurales.
+* Prevenir la proliferación de enfermedades, provocadas por mosquitos, como el Dengue. Que complemente las acciones de prevención realizadas por el Ministerio de Salud de Guatemala.
+* Procurar condiciones de higiene entre la población.
 
 ##Ubicación
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Retalhuleu, Retalhuleu)
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Mazatenango, Suchitepéquez)
 ###Departamentos
-* Mazatenango
+* Suchitepequez
 * Retalhuleu
 ####Municipios
 * 8 municipios
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Retalhuleu, Guatemala)
 
 ##Objetivos
 
@@ -780,18 +763,15 @@ Dos días antes a la llegada de la Depresión Tropical Agatha, el Volcán Pacaya
 Mitigar los efectos de la Tormenta Agatha en las comunidades afectadas, ofreciendo a las familias artículos de ayuda humanitaria que les permitan recuperar en el corto plazo sus condiciones de vida.
 
 ###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
+1. Proveer a las familias  afectadas por las inundaciones ayuda humanitaria
 
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
 | N° beneficiarios directos       | 12697 |
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
+| % hombres                       | 49% |
+| % mujeres                       | 51% |
+| N° de comunidades beneficiarias | 52 |
 
 ##Documentos
 ###Informes
@@ -850,8 +830,10 @@ Mitigar los efectos de la Tormenta Agatha en las comunidades afectadas, ofrecien
 Durante el año 2011, las comunidades donde le localiza el Proyecto DIPECHO VII, fueron afectadas por la temporada de lluvias, especialmente por la Depresión Tropical 12-E, la cual afectó a un buen número de familias, especialmente las viviendas y estructuras de puentes. Tomando en cuenta que la recurrencia de fenómenos naturales y algunos factores sociales como densidad de población y actividad económica contribuyen a determinar la vulnerabilidad de un área considerable; en términos generales tanto Cuyotenango como San Andrés Villa Seca por su ubicación geográfica con respecto a los ríos que cruzan estos municipios y por el estado actual de los recursos naturales, especialmente bosque, están catalogados como municipios de alta vulnerabilidad a desastres naturales.
 
 ##Ubicación
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Retalhuleu, Retalhuleu)
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Mazatenango, Suchitepéquez)
 ###Departamentos
-* Mazatenango
+* Suchitepequez
 * Retalhuleu
 ####Municipios
 * Cuyotenango
@@ -859,24 +841,23 @@ Durante el año 2011, las comunidades donde le localiza el Proyecto DIPECHO VII,
 * San Andrés
 * Villa Seca
 * Retalhuleu
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Retalhuleu, Guatemala)
 
 ##Objetivos
 
 ###Objetivo General
 Fortalecer las capacidades de respuesta, preparación y mitigación ante desastres de la población más vulnerable, residente en comunidades de la región de Suchitepéquez y Retalhuleu.
 ###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
+1. Contribuir al fortalecimiento del sistema local de gestión de desastres en la región suroccidente de Guatemala.
 
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
+| N° beneficiarios directos       | 26,554 |
+| N° beneficiarios indirectos     | 801,652 |
+| % hombres                       | 49% |
+| % mujeres                       | 51% |
+| N° de comunidades beneficiarias | 15	|
+| Etnia                           | Mestiza |
 
 ##Documentos
 ###Informes
@@ -936,33 +917,35 @@ Para el Programa de Reducción de Riesgos de Desastres prueba al Cambio Climáti
 El tema central del Programa de Reducción de Riesgos de Desastres incrementados por el Cambio Climático es la necesidad para un mejor entendimiento en la interrelación entre reducción de riesgos de desastres, adaptación de cambio climático y el manejo de ecosistemas para obtener ganancias en sinergias.  Para lograr un mejor entendimiento, se usa dos enfoques: 1) aprendiendo haciendo y 2) usando experiencias existentes para orientar la implementación.
 
 ##Ubicación
-###Departamento
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Quiché, Guatemala)
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](El Estor, Izabal)
+###Departamentos
 * Quiché
-* El Estor
+* Izabal
 
-####Municipio
+####Municipios
 * Quiché
 * El Estor 
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Quiché, Guatemala)
 
 ##Objetivos
 
 ###Objetivo General
 Reducida la vulnerabilidad y mejorada la capacidad de resiliencia de las poblaciones metas para enfrentar los efectos de los desastres magnificados por el cambio climático..
 
-###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
+###ObjetivoS EspecíficoS
+Hay tres alcances incluyendo una estrategia para cada una:
+1. Las comunidades son más resistentes a las amenazas inducidas por el cambio climático
+ * Estrategia: Fortalecimiento de resiliencia comunitaria. Esta estrategia está relacionado al conocimiento de las comunidades implicando que las comunidades saben cómo equilibrar producción y protección de su ambiente natural y saben cuáles amenazas enfrenten (en una manera incrementando).
+2. Las ONGs /OBCs aplican RRD, ACC, MRE en asistencia y incidencia política
+ * Estrategia: Fortalecimiento Organizaciones de la Sociedad Civil. Por esta estrategia ONGs/OBCs tienen una red y plataforma para RRD/ACC/MRE y tienen conocimiento acerca de RRD/ACC/MRE
+3. Lograr que el ambiente institucional, del nivel internacional a local, sea más favorable a la integración de las metodologías RRD/ACC/MRE
+ * Estrategia: Diálogo político y cabildeo por leyes en relación con RRD/ACC/MRE para mejorar la gobernabilidad e incrementar los recursos a todos los niveles.  La estrategia facilita que gobiernos tienen conocimiento de RRD/ACC/MRE, que leyes y políticas favorables a RRD/ACC/MRE son preparadas, y que hay un incremento de los fondos del gobierno para RRD/ACC/MRE.
 
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios directos       | 13875 |
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
+| N° de comunidades beneficiarias | 8 |
+| Etnia                           | Q'eqchi' y Qiche' |
 
 ##Documentos
 ###Informes
@@ -1023,13 +1006,13 @@ The chain of seisms registered in Santa Rosa on 19 September, had magnitudes var
 Though Cuilapa was most affected, the municipalities of Oratorio and Santa Maria de Ixhuatán also were heavily affected.
 
 ##Ubicación
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Oratorio, Santa Rosa)
 ###Departamento
 * Santa Rosa
 ####Municipio
 * Cuilapa
 * Oratorio
 * Santa Maria Ixhuatan
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
 
 ##Objetivos
 
@@ -1037,18 +1020,16 @@ Though Cuilapa was most affected, the municipalities of Oratorio and Santa Maria
 Provide relief to the adverse living conditions of the population affected by the seisms in Guatemala.
 
 ###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
+1. Contribute to the early recovery of the families affected by the earthquakes in the Department of Santa Rosa, Guatemala
 
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
 | N° beneficiarios directos       | 6064 |
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
+| % hombres                       | 49% |
+| % mujeres                       | 51% |
+| N° de comunidades beneficiarias | 7	|
+| Etnia                           | Mestiza |
 
 ##Documentos
 ###Informes
@@ -1107,12 +1088,12 @@ Departamento de Petén, y en particular la población del Municipio de Las Cruce
 El principal problema que el proyecto busca afrontar es la necesidad de reducir el alto riesgo de desastres del área, debido a la combinación de las amenazas existentes en especial, inundaciones- con su alto grado de vulnerabilidad ambiental, social, organizativa, económica y educativa, y con la insuficiente capacidad institucional para la prevención, preparación y respuesta a desastres a nivel municipal y departamental.
 
 ##Ubicación
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Sayaxché, Petén)
 ###Departamento
 * Petén
 ####Municipio
 * Las Cruces
 * Sayaxché
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
 
 ##Objetivos
 
@@ -1120,18 +1101,16 @@ El principal problema que el proyecto busca afrontar es la necesidad de reducir 
 Reducir el impacto de futuros desastres en comunidades vulnerables de Guatemala
 
 ###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
+1. Aumentada la resiliencia a desastres y reducida a vulnerabilidad de población rural y urbana en el Departamento de Petén
 
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
 | N° beneficiarios directos       | 21366 |
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
+| % hombres                       | 52% |
+| % mujeres                       | 48% |
+| N° de comunidades beneficiarias | 10 |
+| Etnia                           | Mestiza en su mayoría |
 
 ##Documentos
 ###Informes
@@ -1191,13 +1170,13 @@ El Departamento de San Marcos se encuentra situado en la región suroccidental d
 Su elevado índice de pobreza, superior al promedio nacional, los altos índices de mortalidad materna (106.1 x 100,000 nacidos vivos) y neonatal (22 x 100,000) fueron determinantes para seleccionar al departamento para la implementación del Proyecto. A esto se suma la presencia de tres Delegaciones de Cruz Roja Guatemalteca en tres diferentes municipios pero en una misma región, lo que permite instalar un sistema eficiente de referencia y contrareferencia a los diferentes servicios de salud.
 
 ##Ubicación
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](San Marcos, San Marcos)
 ###Departamento
 * San Marcos
 ####Municipio
 * San Marcos
 * Comitancillo
 * Tejutla
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
 
 ##Objetivos
 
@@ -1205,18 +1184,14 @@ Su elevado índice de pobreza, superior al promedio nacional, los altos índices
 Contribuir a la reducción de la mortalidad materna y neonatal en el departamento de San Marcos, Guatemala..
 
 ###Objetivo Específico
-* Escribir un objetivo específico aqui.
-* Escribir otro objetivo específico aqui.
+1. Mujeres embarazadas y recién nacidos han mejorado su salud materno neonatal en las comunidades atendidas del departamento de San Marcos
 
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
 | N° beneficiarios directos       | 12100 |
-| N° beneficiarios indirectos     | XXXX    |
-| % hombres                       | XX%     |
-| % mujeres                       | XX%     |
-| N° de comunidades beneficiarias | XXX	  	|
-| Etnia                           | Etnia   |
+| N° de comunidades beneficiarias | 32	|
+| Etnia                           | Mestiza y Mam |
 
 ##Documentos
 ###Informes
@@ -1257,99 +1232,4 @@ Contribuir a la reducción de la mortalidad materna y neonatal en el departament
 [](http://www.youtube.com/watch?v=RMINSD7MmT4)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-1. Rehabilitación y reconstrucción comunitaria basada en la participación activa de la comunidad y el desarrollo sostenible --/n-- 2. Preparación y respuesta a desastres de las comunidades y las cruces rojas --/n-- 3. Desarrollo institucional de las delegaciones y sedes de la Cruz Roja para garantizar la ejecución del programa y para asegurar la respuesta a los desastres y las necesidades.
-1.Mejorar las condiciones de saneamiento básico de los beneficiarios y las beneficiarias del proyecto a través de la educación y el uso de tecnología apropiada para el manejo de los focos de infección. --/n-- 2.Disminuir la incidencia de las enfermedades producidas por el manejo del agua para consumo humano, basuras, excretas y aguas residuales.
-Las comunidades que habitan en la cuenca del río Chixoy han reforzado su mitigación de desastres, preparación y capacidad de respuesta en concordancia con el sistema CONRED a nivel regional, departamental, municipal y local.	
-Fortalecido el Sistema de Reducción de Desastres a nivel regional y nacional, a través del mejoramiento de las capacidades organizativas, de preparación y respuesta en 18 comunidades del Municipio de Santo Domingo Suchitepéquez.
-Integrar el conocimiento sobre los riesgos climáticos en los programas de educación comunitaria de la Cruz Roja en Guatemala, que permita el fortalecimiento a las comunidades más vulnerables expuestas a estos efectos en 11 comunidades en Chiquimula para el año 2007.
-Fortalecer la capacidad de la Cruz Roja Guatemalteca para que apoye a a su vez a fortalecer la capacidad de 12 comunidades en el municipio de El Estor, del Departamento de Izabal con respecto a Respuesta a emergencias por desastres y adaptabilidad para enfrentar los efectos relacionados al Cambio Climático
-Fortalecer la estructura organizacional, así como también, la capacidad y preparación
-para responder a los eventos hidrometeorológicos, del sistema de respuesta a nivel municipal y comunitario en Champerico
-Proveer a las familias  afectadas por las inundaciones ayuda humanitaria
-Contribuir al fortalecimiento del sistema local de gestión de desastres en la región suroccidente de Guatemala.
-Hay tres alcances incluyendo una estrategia para cada una: --/n-- 1. Las comunidades son más resistentes a las amenazas inducidas por el cambio climático --/n--   Estrategia: Fortalecimiento de resiliencia comunitaria. Esta estrategia está relacionado al conocimiento de las comunidades implicando que las comunidades saben cómo equilibrar producción y protección de su ambiente natural y saben cuáles amenazas enfrenten (en una manera incrementando). --/n-- 2. Las ONGs /OBCs aplican RRD, ACC, MRE en asistencia y incidencia política --/n--   Estrategia: Fortalecimiento Organizaciones de la Sociedad Civil. Por esta estrategia ONGs/OBCs tienen una red y plataforma para RRD/ACC/MRE y tienen conocimiento acerca de RRD/ACC/MRE. --/n-- 3. Lograr que el ambiente institucional, del nivel internacional a local, sea más favorable a la integración de las metodologías RRD/ACC/MRE --/n--  Estrategia: Diálogo político y cabildeo por leyes en relación con RRD/ACC/MRE para mejorar la gobernabilidad e incrementar los recursos a todos los niveles.  La estrategia facilita que gobiernos tienen conocimiento de RRD/ACC/MRE, que leyes y políticas favorables a RRD/ACC/MRE son preparadas, y que hay un incremento de los fondos del gobierno para RRD/ACC/MRE.
-Contribute to the early recovery of the families affected by the earthquakes in the Department of Santa Rosa, Guatemala
-Aumentada la resiliencia a desastres y reducida a vulnerabilidad de población rural y urbana en el Departamento de Petén	Mujeres embarazadas y recién nacidos han mejorado su salud materno neonatal en las comunidades atendidas del departamento de San Marcos
-
-
-
-
-
-Beneficiarios indirectos
-
-
-246733
-
-
-
-
-26554
-
-801652
-
-
-
-
-
-
-
-
-
-% hombres/mujeres
-
-
-
-50.25% hombres / 49.75% mujeres
-
-
-
-51% mujeres / 49% hombres
-Hombres 51% Mujeres 49%
-Hombres 51% Mujeres 49%
-
-Hombres 51% Mujeres 49%
-Mujeres 48% Hombres 52%
-
-
-
-
-
-
-N° de comunidades beneficiarias
-
-Cobán 17 comunidades, 772 familias, en los municipios de Cobán y Chisec. --/N-- Petén 17 comunidades (empezaron con 25), 900 familias, en los municipios La Libertad y Sayaxché.
-12
-30
-18
-11
-26
-21
-52
-15
-8
-7
-10
-32
-
-
-
-
-
-Etnia
-
-Maya Q'eqchí
-Q'ekchi y Poconchi'
-Q´eqchi
-Mestizos, Cakchiquel, Quiché y  Mam
-Mestiza
-Q'qchí y Mestiza
-Mestiza
-
-Mestiza
-Q´eqchi y Qiché
-Mestiza
-Mestiza en su mayoría
-Mestiza y Mam
-
 <script type="text/javascript">$('.media').media();</script>
