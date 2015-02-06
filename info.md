@@ -74,8 +74,8 @@ Un requisito previo importante para la ejecución de estos proyectos es la parti
 A finales de Octubre de 1998, América Central fue afectada por el paso del huracán MITCH, provocando pérdidas humanas, económicas y daños a la infraestructura en general y de cultivos, en los países de Honduras, Nicaragua y Guatemala. La Cruz Roja Holandesa respondiendo al llamamiento internacional de ayuda realizado por la Cruz Roja de los países centroamericanos, envió en diciembre de 1998 una misión para identificar los daños causados por el Huracán Mitch, dando como resultado el diseño e implementación del programa bilateral Cooperación Holandesa para ayudar a Centroamérica (Programa CHACA) con una duración de tres años. Para el desarrollo del proyecto se firmó un Memorando de entendimiento con las Sociedades Nacionales de la Cruz Roja en cada uno de los tres países.
 
 ##Ubicación
-[gimmick:googlemaps(maptype: 'terrain', zoom: 8, marker: 'true')](La Libertad, Petén)
-[gimmick:googlemaps(maptype: 'terrain', zoom: 8, marker: 'true')](Cobán, Alta Verapaz)
+[gimmick:googlemaps(maptype: 'terrain', zoom: 9, marker: 'true')](La Libertad, Petén)
+[gimmick:googlemaps(maptype: 'terrain', zoom: 9, marker: 'true')](Cobán, Alta Verapaz)
 ###Departamentos:
 * Alta Verapaz
 * Petén
@@ -105,14 +105,9 @@ Rehabilitar y reconstruir la infraestructura de vivienda, servicios comunitarios
 
 ##Documentos
 ###Informes
-####Semestrales
-#####Primer Semestre
-<a class="media {}" href="docs/doc-2.pdf"></a>
-<a class="descarga-pdf" href="../docs/doc-2.pdf">Descargar</a>
-
 ####Final
-<a class="media {}" href="docs/doc-2.pdf"></a>
-<a class="descarga-pdf" href="../docs/doc-2.pdf">Descargar</a>
+[](http://youtu.be/T1d_02MlYEM)
+<a class="descarga-pdf" href="docs/p02/informes/informe-final-chaca.pps">Descargar PPS</a>
 
 ###Sistematizaciónes
 ####Sistematización X
@@ -128,7 +123,101 @@ Rehabilitar y reconstruir la infraestructura de vivienda, servicios comunitarios
 - - -
 
 ####Resolución Media
-![](http://lorempixel.com/800/600)
+![](docs/p02/fotos/01.JPG)
+![](docs/p02/fotos/02.JPG)
+![](docs/p02/fotos/03.JPG)
+![](docs/p02/fotos/04.JPG)
+![](docs/p02/fotos/05.JPG)
+![](docs/p02/fotos/06.JPG)
+![](docs/p02/fotos/07.JPG)
+![](docs/p02/fotos/08.JPG)
+![](docs/p02/fotos/09.JPG)
+![](docs/p02/fotos/10.JPG)
+![](docs/p02/fotos/11.JPG)
+![](docs/p02/fotos/12.JPG)
+![](docs/p02/fotos/13.JPG)
+![](docs/p02/fotos/14.JPG)
+![](docs/p02/fotos/15.JPG)
+![](docs/p02/fotos/16.JPG)
+![](docs/p02/fotos/17.JPG)
+![](docs/p02/fotos/18.JPG)
+![](docs/p02/fotos/19.JPG)
+![](docs/p02/fotos/20.JPG)
+![](docs/p02/fotos/21.JPG)
+![](docs/p02/fotos/22.JPG)
+![](docs/p02/fotos/23.JPG)
+![](docs/p02/fotos/24.JPG)
+![](docs/p02/fotos/25.JPG)
+![](docs/p02/fotos/26.JPG)
+![](docs/p02/fotos/27.JPG)
+![](docs/p02/fotos/29.JPG)
+![](docs/p02/fotos/30.JPG)
+![](docs/p02/fotos/31.JPG)
+![](docs/p02/fotos/32.JPG)
+![](docs/p02/fotos/33.JPG)
+![](docs/p02/fotos/34.JPG)
+![](docs/p02/fotos/35.JPG)
+![](docs/p02/fotos/36.JPG)
+![](docs/p02/fotos/37.JPG)
+![](docs/p02/fotos/38.JPG)
+![](docs/p02/fotos/39.JPG)
+![](docs/p02/fotos/40.JPG)
+![](docs/p02/fotos/41.JPG)
+![](docs/p02/fotos/42.JPG)
+![](docs/p02/fotos/43.JPG)
+![](docs/p02/fotos/44.JPG)
+![](docs/p02/fotos/45.JPG)
+![](docs/p02/fotos/46.JPG)
+![](docs/p02/fotos/47.JPG)
+![](docs/p02/fotos/48.JPG)
+![](docs/p02/fotos/49.JPG)
+![](docs/p02/fotos/50.JPG)
+![](docs/p02/fotos/51.JPG)
+![](docs/p02/fotos/52.JPG)
+![](docs/p02/fotos/53.JPG)
+![](docs/p02/fotos/54.JPG)
+![](docs/p02/fotos/55.JPG)
+![](docs/p02/fotos/56.JPG)
+![](docs/p02/fotos/57.JPG)
+![](docs/p02/fotos/58.JPG)
+![](docs/p02/fotos/59.JPG)
+![](docs/p02/fotos/60.JPG)
+![](docs/p02/fotos/61.JPG)
+![](docs/p02/fotos/62.JPG)
+![](docs/p02/fotos/64.JPG)
+![](docs/p02/fotos/65.JPG)
+![](docs/p02/fotos/66.JPG)
+![](docs/p02/fotos/67.JPG)
+![](docs/p02/fotos/68.JPG)
+![](docs/p02/fotos/69.JPG)
+![](docs/p02/fotos/70.JPG)
+![](docs/p02/fotos/71.JPG)
+![](docs/p02/fotos/72.JPG)
+![](docs/p02/fotos/73.JPG)
+![](docs/p02/fotos/74.JPG)
+![](docs/p02/fotos/75.JPG)
+![](docs/p02/fotos/76.JPG)
+![](docs/p02/fotos/77.JPG)
+![](docs/p02/fotos/78.JPG)
+![](docs/p02/fotos/80.JPG)
+![](docs/p02/fotos/81.JPG)
+![](docs/p02/fotos/82.JPG)
+![](docs/p02/fotos/83.JPG)
+![](docs/p02/fotos/85.JPG)
+![](docs/p02/fotos/86.JPG)
+![](docs/p02/fotos/87.JPG)
+![](docs/p02/fotos/88.JPG)
+![](docs/p02/fotos/89.JPG)
+![](docs/p02/fotos/90.JPG)
+![](docs/p02/fotos/91.JPG)
+![](docs/p02/fotos/92.JPG)
+![](docs/p02/fotos/93.JPG)
+![](docs/p02/fotos/94.JPG)
+![](docs/p02/fotos/96.JPG)
+![](docs/p02/fotos/97.JPG)
+![](docs/p02/fotos/catarata.JPG)
+![](docs/p02/fotos/champey.JPG)
+![](docs/p02/fotos/rubel-chaim.JPG)
 
 - - -
 
@@ -180,7 +269,7 @@ Contribuir a la mejora de las condiciones sanitarias y ambientales en 12 comunid
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
+| N° beneficiarios directos       | 3926 |
 | N° beneficiarios indirectos     | XXXX    |
 | % hombres                       | XX%     |
 | % mujeres                       | XX%     |
@@ -263,7 +352,7 @@ Chisec y Cobán (Alta Verapaz).
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
+| N° beneficiarios directos       | 153050 |
 | N° beneficiarios indirectos     | XXXX    |
 | % hombres                       | XX%     |
 | % mujeres                       | XX%     |
@@ -346,7 +435,7 @@ Reducir los riesgos ante desastres, preparando la población vulnerable en las �
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
+| N° beneficiarios directos       | 13260 |
 | N° beneficiarios indirectos     | XXXX    |
 | % hombres                       | XX%     |
 | % mujeres                       | XX%     |
@@ -436,7 +525,7 @@ Contribuir a una mejor comprensión y actuación ante los riesgos relacionados c
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
+| N° beneficiarios directos       | 12131 |
 | N° beneficiarios indirectos     | XXXX    |
 | % hombres                       | XX%     |
 | % mujeres                       | XX%     |
@@ -521,7 +610,7 @@ Fortalecer la resiliencia de las personas más vulnerables ante los riesgos a de
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
+| N° beneficiarios directos       | 26539 |
 | N° beneficiarios indirectos     | XXXX    |
 | % hombres                       | XX%     |
 | % mujeres                       | XX%     |
@@ -607,7 +696,7 @@ Contribuir a la reducción de riesgos, a través de una mejor preparación de la
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
+| N° beneficiarios directos       | 16449 |
 | N° beneficiarios indirectos     | XXXX    |
 | % hombres                       | XX%     |
 | % mujeres                       | XX%     |
@@ -689,7 +778,7 @@ Mitigar los efectos de la Tormenta Agatha en las comunidades afectadas, ofrecien
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
+| N° beneficiarios directos       | 12697 |
 | N° beneficiarios indirectos     | XXXX    |
 | % hombres                       | XX%     |
 | % mujeres                       | XX%     |
@@ -775,7 +864,6 @@ Fortalecer las capacidades de respuesta, preparación y mitigación ante desastr
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
 | N° beneficiarios indirectos     | XXXX    |
 | % hombres                       | XX%     |
 | % mujeres                       | XX%     |
@@ -861,7 +949,7 @@ Reducida la vulnerabilidad y mejorada la capacidad de resiliencia de las poblaci
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
+| N° beneficiarios directos       | 13875 |
 | N° beneficiarios indirectos     | XXXX    |
 | % hombres                       | XX%     |
 | % mujeres                       | XX%     |
@@ -947,7 +1035,7 @@ Provide relief to the adverse living conditions of the population affected by th
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
+| N° beneficiarios directos       | 6064 |
 | N° beneficiarios indirectos     | XXXX    |
 | % hombres                       | XX%     |
 | % mujeres                       | XX%     |
@@ -1030,7 +1118,7 @@ Reducir el impacto de futuros desastres en comunidades vulnerables de Guatemala
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
+| N° beneficiarios directos       | 21366 |
 | N° beneficiarios indirectos     | XXXX    |
 | % hombres                       | XX%     |
 | % mujeres                       | XX%     |
@@ -1115,7 +1203,7 @@ Contribuir a la reducción de la mortalidad materna y neonatal en el departament
 ##Beneficiarios
 | Descripción                     | Detalle |
 |:--------------------------------|:-------:|
-| N° beneficiarios directos       | XXXX    |
+| N° beneficiarios directos       | 12100 |
 | N° beneficiarios indirectos     | XXXX    |
 | % hombres                       | XX%     |
 | % mujeres                       | XX%     |
@@ -1175,26 +1263,6 @@ Contribuir al fortalecimiento del sistema local de gestión de desastres en la r
 Hay tres alcances incluyendo una estrategia para cada una: --/n-- 1. Las comunidades son más resistentes a las amenazas inducidas por el cambio climático --/n--   Estrategia: Fortalecimiento de resiliencia comunitaria. Esta estrategia está relacionado al conocimiento de las comunidades implicando que las comunidades saben cómo equilibrar producción y protección de su ambiente natural y saben cuáles amenazas enfrenten (en una manera incrementando). --/n-- 2. Las ONGs /OBCs aplican RRD, ACC, MRE en asistencia y incidencia política --/n--   Estrategia: Fortalecimiento Organizaciones de la Sociedad Civil. Por esta estrategia ONGs/OBCs tienen una red y plataforma para RRD/ACC/MRE y tienen conocimiento acerca de RRD/ACC/MRE. --/n-- 3. Lograr que el ambiente institucional, del nivel internacional a local, sea más favorable a la integración de las metodologías RRD/ACC/MRE --/n--  Estrategia: Diálogo político y cabildeo por leyes en relación con RRD/ACC/MRE para mejorar la gobernabilidad e incrementar los recursos a todos los niveles.  La estrategia facilita que gobiernos tienen conocimiento de RRD/ACC/MRE, que leyes y políticas favorables a RRD/ACC/MRE son preparadas, y que hay un incremento de los fondos del gobierno para RRD/ACC/MRE.
 Contribute to the early recovery of the families affected by the earthquakes in the Department of Santa Rosa, Guatemala
 Aumentada la resiliencia a desastres y reducida a vulnerabilidad de población rural y urbana en el Departamento de Petén	Mujeres embarazadas y recién nacidos han mejorado su salud materno neonatal en las comunidades atendidas del departamento de San Marcos
-
-
-
-
-
-Beneficiarios directos
-
-1684 familias
-3926
-153050
-13260
-12131
-26539
-16449
-12697
-
-13875
-6064
-21366
-12100
 
 
 
