@@ -26,8 +26,10 @@ Un requisito previo importante para la ejecución de estos proyectos es la parti
 
 
 ##Ubicación
-###Departamento de Alta Verapaz
-####Municipio de Cobán
+###Departamento
+* Alta Verapaz
+####Municipio
+*Cobán
 [gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Cobán, Alta Verapaz)
 
 ##Documentos
@@ -68,11 +70,8 @@ Un requisito previo importante para la ejecución de estos proyectos es la parti
 | Tiempo de ejecución | 3.5 años (01/01/1999 al 01/06/2002) |
 
 
-## Propuesta
-A finales de Octubre de 1998, América Central fue afectada por el paso del huracán MITCH, provocando pérdidas humanas, económicas y daños a la infraestructura en general y de cultivos, en los países de Honduras, Nicaragua y Guatemala. La Cruz Roja Holandesa respondiendo al llamamiento internacional de ayuda realizado por la Cruz Roja de los países centroamericanos, envió en diciembre de 1998 una misión para identificar los daños causados por el Huracán Mitch, dando como resultado el diseño e implementación del programa bilateral Cooperación Holandesa para ayudar a Centroamérica (Programa CHACA) con una duración de tres años. Para el desarrollo del proyecto se firmó un Memorando de entendimiento con las Sociedades Nacionales de la Cruz Roja en cada uno de los tres países.
-
 ##Antecedentes
-Escribir los antecedentes aquí.
+A finales de Octubre de 1998, América Central fue afectada por el paso del huracán MITCH, provocando pérdidas humanas, económicas y daños a la infraestructura en general y de cultivos, en los países de Honduras, Nicaragua y Guatemala. La Cruz Roja Holandesa respondiendo al llamamiento internacional de ayuda realizado por la Cruz Roja de los países centroamericanos, envió en diciembre de 1998 una misión para identificar los daños causados por el Huracán Mitch, dando como resultado el diseño e implementación del programa bilateral Cooperación Holandesa para ayudar a Centroamérica (Programa CHACA) con una duración de tres años. Para el desarrollo del proyecto se firmó un Memorando de entendimiento con las Sociedades Nacionales de la Cruz Roja en cada uno de los tres países.
 
 ##Ubicación
 ###Departamentos:
@@ -191,16 +190,18 @@ Escribir los antecedentes aquí.
 | Tiempo de ejecución | 26 meses (01/07/2003 al 01/09/2005) |
 
 
-##Propuesta
-Escribir propuesta aqui.
-
 ##Antecedentes
-Escribir los antecedentes aquí.
+El proyecto CHACA en Guatemala se terminó agosto 2002. Este proyecto forma el punto de partida para el actual proyecto Usi-Há.
 
 ##Ubicación
 ###Departamento
+* Alta Verapaz
 ####Municipio
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
+Chisec
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Chisec, Alta Verapaz)
+Cobán
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Cobán, Alta Verapaz)
+
 
 ##Objetivos
 
@@ -314,16 +315,17 @@ Escribir objetivo general aquí.
 | Tiempo de ejecución | 15 meses (01/02/2005 al 30/04/2006) |
 
 
-##Propuesta
-Escribir propuesta aqui.
-
 ##Antecedentes
-Escribir los antecedentes aquí.
+Durante marzo de 2004, la Cruz Roja Guatemalteca Delegación de Cobán y CRH llevaron a cabo una evaluación de las actividades ejecutadas del proyecto PRRAC. Una conclusión importante fue la necesidad de una intervención institucional en el tema de Prevención y Mitigación de Desastres en el área del río Chixoy.
 
 ##Ubicación
 ###Departamento
+* Alta Verapaz
 ####Municipio
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
+Chisec
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Chisec, Alta Verapaz)
+Cobán
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Cobán, Alta Verapaz)
 
 ##Objetivos
 
@@ -437,16 +439,16 @@ Escribir objetivo general aquí.
 | Tiempo de ejecución | 15 meses (01/02/2007 al 30/04/2008) |
 
 
-##Propuesta
-Escribir propuesta aqui.
-
 ##Antecedentes
-Escribir los antecedentes aquí.
+Es importante destacar que la Vulnerabilidad es una condición social, económica, política o ambiental que hace que las personas o las comunidades estén más expuestas a los daños provocados por cualquier amenaza natural. Santo Domingo Suchitepéquez fue uno de los municipios más afectados del departamento durante la Tormenta Stan de octubre del año 2005,  por lo cual  en la micro regionalización de municipios damnificados fue priorizado como número uno en la región VIII.
 
 ##Ubicación
 ###Departamento
+* Suchitepéquez
 ####Municipio
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
+* Santo Domingo
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Santo Domingo, Suchitepéquez)
+
 
 ##Objetivos
 
@@ -560,16 +562,17 @@ Escribir objetivo general aquí.
 | Tiempo de ejecución | 20 meses (01/03/2006 al 31/12/2007) |
 
 
-##Propuesta
-Escribir propuesta aqui.
-
 ##Antecedentes
-Escribir los antecedentes aquí.
+Las Comunidades Seleccionadas han sido establecidas mediante ciertos criterios:- Vulnerabilidad existente: o Física: Situación de las viviendas susceptibles a cualquier evento climático y sísmico. o Estructural: Sistemas de Organización Comunitaria han sido establecidos en algunos lugares, sin embargo un monitoreo sobre las acciones a nivel comunitario y aportes para su integración y continuidad son requeridos. - Amenazas: En la región, desde el año 2000 se ha identificado que los tradicionales sistemas agrícolas utilizados contribuyen a la degradación ambiental, entre otras. Deslizamientos, Inundaciones, Obstrucciones de Caminos, Tormentas Tropicales y Sequías se identifican entre las principales. - El historial de desastres en la región ha sido registrado por las Autoridades Municipales como recurrente ante las amenazas descritas. Muy pocas acciones se han implementado para reducir estos riesgos a futuros desastres. - Participación e interés Comunitario: Ha sido importante establecer que las Comunidades seleccionadas han manifestado su intención por participar en este tipo de Proyectos que fortalece capacidades y que los recursos en especio o tangibles son limitados.
 
 ##Ubicación
 ###Departamento
+* Chiquimula
 ####Municipio
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
+* Chiquimula
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Chiquimula, Chiquimula)
+* San José la Arada
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](San José la Arada, Chiquimula)
 
 ##Objetivos
 
@@ -683,16 +686,18 @@ Escribir objetivo general aquí.
 | Tiempo de ejecución | 20 meses (10/04/2008 al 30/11/2009) |
 
 
-##Propuesta
-Escribir propuesta aqui.
-
 ##Antecedentes
-Escribir los antecedentes aquí.
+A partir del año 2006, Cruz Roja Guatemalteca, través de la Secretaría Nacional de Desastres, con el apoyo de Cruz Roja Holandesa, y con el objetivo de Contribuir a una mejor comprensión y actuación ante los riesgos relacionados con el cambio climático en Guatemala para la reducción de la vulnerabilidad, inicia el proyecto Fortaleciendo capacidades ante los riesgos de Cambio Climático en el Oriente de Guatemala, el cual se implementó en 11 comunidades del área rural del departamento de Chiquimula; en el año 2007 finaliza este proyecto dejando muy buenos resultados y experiencias tanto a nivel comunitario como institucional demandando el seguimiento al tema de Cambio Climático en la región, de esta cuenta, se formula, se acepta e inicia el proyecto  Reducción de Vulnerabilidades ante los efectos del Cambio Climático en Guatemala, Fase II el cual está siendo   implementado en otras 14  comunidades del área rural del  departamento de Chiquimula,  el cual finalizará en el mes de septiembre de este año (2009) a través del cual se busca fortalecer la Resiliencia de las personas más vulnerables ante los efectos del Cambio Climático.
 
 ##Ubicación
 ###Departamento
+* Chiquimula
 ####Municipio
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
+* Chiquimula
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Chiquimula, Chiquimula)
+* El Estor
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](El Estor, Chiquimula)
+
 
 ##Objetivos
 
@@ -806,16 +811,18 @@ Escribir objetivo general aquí.
 | Tiempo de ejecución | 15 meses (15/09/2008 al 28/02/2010) |
 
 
-##Propuesta
-Escribir propuesta aqui.
-
 ##Antecedentes
-Escribir los antecedentes aquí.
+Debido a la morfología y a la red hidrográfica de la cuenca, se observan aluviones, terrazas aluviales y planicies de inundación. Estos patrones se acentúan en la parte media donde los ríos Izcaya y Nimá I se unen al Samalá, aumentando su caudal y sirve como medio de transporte de material volcánico del Santa María y del Santiaguito el cual azolva el cauce del río provocando su desbordamiento. A la altura de San Felipe Retalhuleu, se unen los ríos Nimá II y el Tambor, lo que hace aumentar aún más el caudal y la amenaza de inundación.
 
 ##Ubicación
 ###Departamento
+* Retalhuleu
 ####Municipio
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
+* Retalhuleu
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Retalhuleu, Retalhuleu)
+* Champerico
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Champerico, Retalhuleu)
+
 
 ##Objetivos
 
@@ -929,16 +936,16 @@ Escribir objetivo general aquí.
 | Tiempo de ejecución | 3 meses (29/05/2010 al 30/08/2010) |
 
 
-##Propuesta
-Escribir propuesta aqui.
-
 ##Antecedentes
-Escribir los antecedentes aquí.
+Dos días antes a la llegada de la Depresión Tropical Agatha, el Volcán Pacaya inicia un período de actividad volcánica en el Pacaya, seguido de una explosión repentina que expulsó ceniza y rocas volcánicas en los Departamentos cercanos a Escuintla, incluyendo el Departamento de Guatemala. Esta situación provocó la inhabilitación del aeropuerto internacional La Aurora, daños en los sistemas de alcantarillado y colapso de muchos drenajes, lo cual dificultó el drenaje de las aguas llovidas.La población damnificada en los tres lugares, reside en áreas: rural, urbana y semiurbana.--/n--A partir de la evaluación realizada en el terreno se ha determinado que para la atención adecuada de las personas damnificadas, es imperativo desarrollar acciones de distribución de ayuda humanitaria que en el corto plazo permitan: - Proveer de alimentos mientras se avanza en los procesos de rehabilitación en la agricultura en cada lugar. - Proveer de insumos para el acceso al agua potable en condiciones seguras. Mientras se rehabilitan los sistemas de distribución de agua ya existentes y/o se procede a la limpieza de las fuentes de agua (pozos) en las comunidades rurales. - Prevenir la proliferación de enfermedades, provocadas por mosquitos, como el Dengue. Que complemente las acciones de prevención realizadas por el Ministerio de Salud de Guatemala - Procurar condiciones de higiene entre la población..
 
 ##Ubicación
-###Departamento
-####Municipio
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
+###Departamentos
+* Mazatenango
+* Retalhuleu
+####Municipios
+* 8 municipios
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Retalhuleu, Guatemala)
 
 ##Objetivos
 
@@ -1052,16 +1059,20 @@ Escribir objetivo general aquí.
 | Tiempo de ejecución | 15 meses (01/09/2010 al 31/12/2011) |
 
 
-##Propuesta
-Escribir propuesta aqui.
-
 ##Antecedentes
-Escribir los antecedentes aquí.
+Durante el año 2011, las comunidades donde le localiza el Proyecto DIPECHO VII, fueron afectadas por la temporada de lluvias, especialmente por la Depresión Tropical 12-E, la cual afectó a un buen número de familias, especialmente las viviendas y estructuras de puentes. Tomando en cuenta que la recurrencia de fenómenos naturales y algunos factores sociales como densidad de población y actividad económica contribuyen a determinar la vulnerabilidad de un área considerable; en términos generales tanto Cuyotenango como San Andrés Villa Seca por su ubicación geográfica con respecto a los ríos que cruzan estos municipios y por el estado actual de los recursos naturales, especialmente bosque, están catalogados como municipios de alta vulnerabilidad a desastres naturales.
 
 ##Ubicación
-###Departamento
-####Municipio
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
+###Departamentos
+* Mazatenango
+* Retalhuleu
+####Municipios
+* Cuyotenango
+* Suchitepequez
+* San Andrés
+* Villa Seca
+* Retalhuleu
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Retalhuleu, Guatemala)
 
 ##Objetivos
 
@@ -1175,16 +1186,18 @@ Escribir objetivo general aquí.
 | Tiempo de ejecución | 4 años (01/01/2011 al 31/12/2014) |
 
 
-##Propuesta
-Escribir propuesta aqui.
-
 ##Antecedentes
-Escribir los antecedentes aquí.
+Para el Programa de Reducción de Riesgos de Desastres prueba al Cambio Climático la alianza PfR ha decidido trabajar según un cierto modelo de colaboración en el cual el intercambio de conocimiento, el soporte técnico, la construcción de capacidades en conjunto, abogacía/política, y diálogos son claves. Además, las organizaciones implementaran en conjunto las actividades lo más unificadas posibles. --/n-- El tema central del Programa de Reducción de Riesgos de Desastres incrementados por el Cambio Climático es la necesidad para un mejor entendimiento en la interrelación entre reducción de riesgos de desastres, adaptación de cambio climático y el manejo de ecosistemas para obtener ganancias en sinergias.  Para lograr un mejor entendimiento, se usa dos enfoques: 1) aprendiendo haciendo y 2) usando experiencias existentes para orientar la implementación.
 
 ##Ubicación
 ###Departamento
+* Quiché
+* El Estor
+
 ####Municipio
-[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
+* Quiché
+* El Estor 
+[gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Quiché, Guatemala)
 
 ##Objetivos
 
@@ -1298,15 +1311,16 @@ Escribir objetivo general aquí.
 | Tiempo de ejecución | 5 meses (01/10/2011 al 30/02/2012) |
 
 
-##Propuesta
-Escribir propuesta aqui.
-
 ##Antecedentes
-Escribir los antecedentes aquí.
+The Department of Santa Rosa, located in the IV region (or South East region) with capital Cuilapa, was affected by two phenomena because of its geographical location. These have caused a lot of damages. Since 19 July, some 4.295 seismic activities were registered, 67 of which were felt by the population. These activities were caused because of the faults associated with the Fault of Jalpatagua, that has its epicentre in Santa Rosa. At the same time, constants rains have affected the Department, and complicated the outlook of the region, provoking an accumulation of water in the soils. --/n-- The chain of seisms registered in Santa Rosa on 19 September, had magnitudes varying between 3.6 and 4.9 degrees on the Richter Scale, affecting some 14.787 persons. 1 person was killed, 7 wounded. Some 1.200 houses have damages (varying in scale from at risk, to destroyed) and therefore some 2.092 people currently stay in official shelters, whereas some 1.800 people are staying in no-official shelters. --/n-- Though Cuilapa was most affected, the municipalities of Oratorio and Santa Maria de Ixhuatán also were heavily affected.
 
 ##Ubicación
 ###Departamento
+* Santa Rosa
 ####Municipio
+* Cuilapa
+* Oratorio
+* Santa Maria Ixhuatan
 [gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
 
 ##Objetivos
@@ -1421,15 +1435,15 @@ Escribir objetivo general aquí.
 | Tiempo de ejecución | 18 meses |
 
 
-##Propuesta
-Escribir propuesta aqui.
-
 ##Antecedentes
-Escribir los antecedentes aquí.
+Departamento de Petén, y en particular la población del Municipio de Las Cruces, son altamente susceptibles de sufrir desastres causados por eventos hidro-meteorológicos y el desborde de los ríos Usumacinta y La Pasión. La orografía plana del área provoca la inundación de amplias zonas de terreno en las que se ubican la población priorizada y sus medios de vida. A nivel urbano, las inundaciones se deben a las fuertes lluvias y factores derivados de un mal desarrollo urbanístico. --/n-- El principal problema que el proyecto busca afrontar es la necesidad de reducir el alto riesgo de desastres del área, debido a la combinación de las amenazas existentes en especial, inundaciones- con su alto grado de vulnerabilidad ambiental, social, organizativa, económica y educativa, y con la insuficiente capacidad institucional para la prevención, preparación y respuesta a desastres a nivel municipal y departamental.
 
 ##Ubicación
 ###Departamento
+* Petén
 ####Municipio
+* Las Cruces
+* Sayaxché
 [gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
 
 ##Objetivos
@@ -1544,15 +1558,16 @@ Escribir objetivo general aquí.
 | Tiempo de ejecución | 24 meses |
 
 
-##Propuesta
-Escribir propuesta aqui.
-
 ##Antecedentes
-Escribir los antecedentes aquí.
+El Departamento de San Marcos se encuentra situado en la región suroccidental de Guatemala. Su extensión territorial es de 3.791 kilómetros cuadrados. Limita al norte con Huehuetenango, al sur con el Océano Pacifico y Retalhuleu, al este con Quetzaltenango; y al oeste con el estado mexicano de Chiapas. La cabecera departamental se encuentra a una distancia de 252 kilómetros de la ciudad capital de Guatemala.  El Instituto Nacional de Estadística estima que para el 2011 vivían en el departamento un total de 1,019,719, que hablan los idiomas, español, mam, sipacapense, y K´iche. Se estima que el 51.1% de la población es de sexo femenino y que el 73% de sus habitantes viven en áreas rurales. El 65.5% de la población se encuentra en una situación de pobreza general y el 19.9% en pobreza extrema con un Indice de Desarrollo Humano de 0.663, comparado con el 0.704 del pais.  El tamaño promedio de los hogares es de 6 personas. Sus viviendas se ven afectadas en la mayoría de los casos, por el hacinamiento, pues poseen uno o dos cuartos como máximo.  Muchas casas están construidas con adobe (20.5%) y madera (22.2%), materiales altamente vulnerables ante desastres, lo cual los coloca en una posición de alto riesgo social. --/n-- Su elevado índice de pobreza, superior al promedio nacional, los altos índices de mortalidad materna (106.1 x 100,000 nacidos vivos) y neonatal (22 x 100,000) fueron determinantes para seleccionar al departamento para la implementación del Proyecto. A esto se suma la presencia de tres Delegaciones de Cruz Roja Guatemalteca en tres diferentes municipios pero en una misma región, lo que permite instalar un sistema eficiente de referencia y contrareferencia a los diferentes servicios de salud.
 
 ##Ubicación
 ###Departamento
+* San Marcos
 ####Municipio
+* San Marcos
+* Comitancillo
+* Tejutla
 [gimmick:googlemaps(maptype: 'terrain', zoom: 10, marker: 'true')](Guatemala, Guatemala)
 
 ##Objetivos
@@ -1654,64 +1669,9 @@ Escribir objetivo general aquí.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Propuesta
-
-
-Antecedentes
-Destinado a ayudar a la población desplazada que ha retornado como resultado de los Acuerdos firmados de Paz.
-A finales de Octubre de 1998, América Central fue afectada por el paso del huracán MITCH, provocando pérdidas humanas, económicas y daños a la infraestructura en general y de cultivos, en los países de Honduras, Nicaragua y Guatemala. La Cruz Roja Holandesa respondiendo al llamamiento internacional de ayuda realizado por la Cruz Roja de los países centroamericanos, envió en diciembre de 1998 una misión para identificar los daños causados por el Huracán Mitch, dando como resultado el diseño e implementación del programa bilateral Cooperación Holandesa para ayudar a Centroamérica (Programa CHACA) con una duración de tres años. Para el desarrollo del proyecto se firmó un Memorando de entendimiento con las Sociedades Nacionales de la Cruz Roja en cada uno de los tres países.
-El proyecto CHACA en Guatemala se terminó agosto 2002. Este proyecto forma el punto de partida para el actual proyecto Usi-Há.
-Durante marzo de 2004, la Cruz Roja Guatemalteca Delegación de Cobán y CRH llevaron a cabo una evaluación de las actividades ejecutadas del proyecto PRRAC. Una conclusión importante fue la necesidad de una intervención institucional en el tema de Prevención y Mitigación de Desastres en el área del río Chixoy.
-Es importante destacar que la Vulnerabilidad es una condición social, económica, política o ambiental que hace que las personas o las comunidades estén más expuestas a los daños provocados por cualquier amenaza natural. Santo Domingo Suchitepéquez fue uno de los municipios más afectados del departamento durante la Tormenta Stan de octubre del año 2005,  por lo cual  en la micro regionalización de municipios damnificados fue priorizado como número uno en la región VIII.
-Las Comunidades Seleccionadas han sido establecidas mediante ciertos criterios:- Vulnerabilidad existente: o Física: Situación de las viviendas susceptibles a cualquier evento climático y sísmico. o Estructural: Sistemas de Organización Comunitaria han sido establecidos en algunos lugares, sin embargo un monitoreo sobre las acciones a nivel comunitario y aportes para su integración y continuidad son requeridos. - Amenazas: En la región, desde el año 2000 se ha identificado que los tradicionales sistemas agrícolas utilizados contribuyen a la degradación ambiental, entre otras. Deslizamientos, Inundaciones, Obstrucciones de Caminos, Tormentas Tropicales y Sequías se identifican entre las principales. - El historial de desastres en la región ha sido registrado por las Autoridades Municipales como recurrente ante las amenazas descritas. Muy pocas acciones se han implementado para reducir estos riesgos a futuros desastres. - Participación e interés Comunitario: Ha sido importante establecer que las Comunidades seleccionadas han manifestado su intención por participar en este tipo de Proyectos que fortalece capacidades y que los recursos en especio o tangibles son limitados.
-A partir del año 2006, Cruz Roja Guatemalteca, través de la Secretaría Nacional de Desastres, con el apoyo de Cruz Roja Holandesa, y con el objetivo de Contribuir a una mejor comprensión y actuación ante los riesgos relacionados con el cambio climático en Guatemala para la reducción de la vulnerabilidad, inicia el proyecto Fortaleciendo capacidades ante los riesgos de Cambio Climático en el Oriente de Guatemala, el cual se implementó en 11 comunidades del área rural del departamento de Chiquimula; en el año 2007 finaliza este proyecto dejando muy buenos resultados y experiencias tanto a nivel comunitario como institucional demandando el seguimiento al tema de Cambio Climático en la región, de esta cuenta, se formula, se acepta e inicia el proyecto  Reducción de Vulnerabilidades ante los efectos del Cambio Climático en Guatemala, Fase II el cual está siendo   implementado en otras 14  comunidades del área rural del  departamento de Chiquimula,  el cual finalizará en el mes de septiembre de este año (2009) a través del cual se busca fortalecer la Resiliencia de las personas más vulnerables ante los efectos del Cambio Climático
-Debido a la morfología y a la red hidrográfica de la cuenca, se observan aluviones, terrazas aluviales y planicies de inundación. Estos patrones se acentúan en la parte media donde los ríos Izcaya y Nimá I se unen al Samalá, aumentando su caudal y sirve como medio de transporte de material volcánico del Santa María y del Santiaguito el cual azolva el cauce del río provocando su desbordamiento. A la altura de San Felipe Retalhuleu, se unen los ríos Nimá II y el Tambor, lo que hace aumentar aún más el caudal y la amenaza de inundación.
-Dos días antes a la llegada de la Depresión Tropical Agatha, el Volcán Pacaya inicia un período de actividad volcánica en el Pacaya, seguido de una explosión repentina que expulsó ceniza y rocas volcánicas en los Departamentos cercanos a Escuintla, incluyendo el Departamento de Guatemala. Esta situación provocó la inhabilitación del aeropuerto internacional La Aurora, daños en los sistemas de alcantarillado y colapso de muchos drenajes, lo cual dificultó el drenaje de las aguas llovidas.La población damnificada en los tres lugares, reside en áreas: rural, urbana y semiurbana.--/n--A partir de la evaluación realizada en el terreno se ha determinado que para la atención adecuada de las personas damnificadas, es imperativo desarrollar acciones de distribución de ayuda humanitaria que en el corto plazo permitan: - Proveer de alimentos mientras se avanza en los procesos de rehabilitación en la agricultura en cada lugar. - Proveer de insumos para el acceso al agua potable en condiciones seguras. Mientras se rehabilitan los sistemas de distribución de agua ya existentes y/o se procede a la limpieza de las fuentes de agua (pozos) en las comunidades rurales. - Prevenir la proliferación de enfermedades, provocadas por mosquitos, como el Dengue. Que complemente las acciones de prevención realizadas por el Ministerio de Salud de Guatemala - Procurar condiciones de higiene entre la población.
-Durante el año 2011, las comunidades donde le localiza el Proyecto DIPECHO VII, fueron afectadas por la temporada de lluvias, especialmente por la Depresión Tropical 12-E, la cual afectó a un buen número de familias, especialmente las viviendas y estructuras de puentes. Tomando en cuenta que la recurrencia de fenómenos naturales y algunos factores sociales como densidad de población y actividad económica contribuyen a determinar la vulnerabilidad de un área considerable; en términos generales tanto Cuyotenango como San Andrés Villa Seca por su ubicación geográfica con respecto a los ríos que cruzan estos municipios y por el estado actual de los recursos naturales, especialmente bosque, están catalogados como municipios de alta vulnerabilidad a desastres naturales.
-Para el Programa de Reducción de Riesgos de Desastres prueba al Cambio Climático la alianza PfR ha decidido trabajar según un cierto modelo de colaboración en el cual el intercambio de conocimiento, el soporte técnico, la construcción de capacidades en conjunto, abogacía/política, y diálogos son claves. Además, las organizaciones implementaran en conjunto las actividades lo más unificadas posibles. --/n-- El tema central del Programa de Reducción de Riesgos de Desastres incrementados por el Cambio Climático es la necesidad para un mejor entendimiento en la interrelación entre reducción de riesgos de desastres, adaptación de cambio climático y el manejo de ecosistemas para obtener ganancias en sinergias.  Para lograr un mejor entendimiento, se usa dos enfoques: 1) aprendiendo haciendo y 2) usando experiencias existentes para orientar la implementación.
-The Department of Santa Rosa, located in the IV region (or South East region) with capital Cuilapa, was affected by two phenomena because of its geographical location. These have caused a lot of damages. Since 19 July, some 4.295 seismic activities were registered, 67 of which were felt by the population. These activities were caused because of the faults associated with the Fault of Jalpatagua, that has its epicentre in Santa Rosa. At the same time, constants rains have affected the Department, and complicated the outlook of the region, provoking an accumulation of water in the soils. --/n-- The chain of seisms registered in Santa Rosa on 19 September, had magnitudes varying between 3.6 and 4.9 degrees on the Richter Scale, affecting some 14.787 persons. 1 person was killed, 7 wounded. Some 1.200 houses have damages (varying in scale from at risk, to destroyed) and therefore some 2.092 people currently stay in official shelters, whereas some 1.800 people are staying in no-official shelters. --/n-- Though Cuilapa was most affected, the municipalities of Oratorio and Santa Maria de Ixhuatán also were heavily affected.
-Departamento de Petén, y en particular la población del Municipio de Las Cruces, son altamente susceptibles de sufrir desastres causados por eventos hidro-meteorológicos y el desborde de los ríos Usumacinta y La Pasión. La orografía plana del área provoca la inundación de amplias zonas de terreno en las que se ubican la población priorizada y sus medios de vida. A nivel urbano, las inundaciones se deben a las fuertes lluvias y factores derivados de un mal desarrollo urbanístico. --/n-- El principal problema que el proyecto busca afrontar es la necesidad de reducir el alto riesgo de desastres del área, debido a la combinación de las amenazas existentes en especial, inundaciones- con su alto grado de vulnerabilidad ambiental, social, organizativa, económica y educativa, y con la insuficiente capacidad institucional para la prevención, preparación y respuesta a desastres a nivel municipal y departamental.
-El Departamento de San Marcos se encuentra situado en la región suroccidental de Guatemala. Su extensión territorial es de 3.791 kilómetros cuadrados. Limita al norte con Huehuetenango, al sur con el Océano Pacifico y Retalhuleu, al este con Quetzaltenango; y al oeste con el estado mexicano de Chiapas. La cabecera departamental se encuentra a una distancia de 252 kilómetros de la ciudad capital de Guatemala.  El Instituto Nacional de Estadística estima que para el 2011 vivían en el departamento un total de 1,019,719, que hablan los idiomas, español, mam, sipacapense, y K´iche. Se estima que el 51.1% de la población es de sexo femenino y que el 73% de sus habitantes viven en áreas rurales. El 65.5% de la población se encuentra en una situación de pobreza general y el 19.9% en pobreza extrema con un Indice de Desarrollo Humano de 0.663, comparado con el 0.704 del pais.  El tamaño promedio de los hogares es de 6 personas. Sus viviendas se ven afectadas en la mayoría de los casos, por el hacinamiento, pues poseen uno o dos cuartos como máximo.  Muchas casas están construidas con adobe (20.5%) y madera (22.2%), materiales altamente vulnerables ante desastres, lo cual los coloca en una posición de alto riesgo social. --/n-- Su elevado índice de pobreza, superior al promedio nacional, los altos índices de mortalidad materna (106.1 x 100,000 nacidos vivos) y neonatal (22 x 100,000) fueron determinantes para seleccionar al departamento para la implementación del Proyecto. A esto se suma la presencia de tres Delegaciones de Cruz Roja Guatemalteca en tres diferentes municipios pero en una misma región, lo que permite instalar un sistema eficiente de referencia y contrareferencia a los diferentes servicios de salud.
 
 
 
-
-
-Departamento
-Alta Verapaz
-Alta Verapaz y Petén
-Alta Verapaz
-Alta Verapaz
-Suchitepéquez
-Chiquimula
-Chiquimula
-Retalhuleu
-Mazatenango, Retalhuleu
-Mazatenango, Retalhuleu
-Quiché, El Estor
-Santa Rosa
-Petén
-San Marcos
-
-
-
-
-
-Municipio
-Cobán
-La Libertad y Sayaxché (El Petén) --/n-- Chisec y Cobán (Alta Verapaz)
-Chisec y Cobán
-Chisec y Cobán
-Santo Domingo
-Chiquimula y San José la Arada
-Chiquimula y El Estor
-Retalhuleu, Champerico
-8 municipios
-Cuyotenango, Suchitepequez y San Andrés Villa Seca, Retalhuleu
-Quiché, El Estor
-Cuilapa, Oratorio y Santa Maria Ixhuatan
-Las Cruces y Sayaxché
-San Marcos, Comitancillo y Tejutla
 
 
 
