@@ -1,12 +1,18 @@
 #Cruz Roja Holandesa en Guatemala
 
-La Cruz Roja Holandesa inició su apoyo financiero y técnico para la ejecución de Proyectos de Desarrollo a través de la Cruz Roja Guatemalteca, desde el año 1997. Durante ese periodo ha realizado proyectos relacionados al apoyo en Educación, Agua y Saneamiento, Preparación para Desastres, Gestión de Riesgos, Salud y Cambio Climático.
+En el mes de diciembre de 1996 el gobierno de la República de Guatemala y la guerrilla firman los acuerdos de paz, firme y duradera, que pondrán fin a un conflicto armado interno de más de 30 años. Es de esta forma que en el año 1997 la Cruz Roja Holandesa llegaría a Guatemala para apoyar a Cruz Roja Guatemalteca en la asistencia de los desplazados internos del país que han retornado como resultado de estos acuerdos, dando inicio a 18 años de apoyo técnico y financiero para la ejecución de 14 proyectos en 11 delegaciones a lo largo del país.
+ 
+En el mes de Marzo de 2015 la Cruz Roja Holandesa finalmente decide salir de Guatemala y de la región LAC excepto Haití, deseándole muchos éxitos a una Cruz Roja Guatemalteca fortalecida como nunca antes.
 
 ##Historico de proyectos
 
-La Cruz Roja Holandesa (NLRC) a apoyado a la Cruz Roja Guatemalteca (CRG) a través de su Plan de Desarrollo desde 1997. Estas iniciativas están de acuerdo con la Estrategia Internacional 2009-2012 "Juntos Podemos" de la NLRC, el Acuerdo Maestro de Cooperación al Movimiento por Guatemala, así como el Plan Interamericano 2007-2011 de la Conferencia Interamericana XVIII en junio de 2007. a partir de febrero de 2005, la GRC ha venido ejecutando proyectos financiados por DIPECHO a través de la NLRC. Las actividades del proyecto se encuentran en Alta Verapaz en el este de Guatemala, y, en el proyecto posterior, en el suroeste de Guatemala. Después de eso, el proyecto se encuentra en Retalhuleu, y el proyecto DIPECHO VII fue implementado en el Departamento de Mazatenango. El programa actual, DIPVIII, se está aplicando en Petén. Otro programa que se está implementado es los Socios para la Resiliencia (PFR), financiado por la Cancillería, que apunta a la Reducción del Riesgo de Desastres y está dentro de los objetivos de la GRC. Se está llevando a cabo en los departamentos de Quiché e Izabal.
+La Cruz Roja Holandesa ha apoyado a la Cruz Roja Guatemalteca a través de su Plan de Desarrollo desde el año 1997 en base a la Estrategia Internacional 2009 - 2012 "Juntos Podemos" de la NLRC, al Acuerdo Maestro de Cooperación al Movimiento por Guatemala, así como al Plan Interamericano 2007-2011 de la Conferencia Interamericana XVIII.
 
-Por último, estamos implementando un programa llamado 'Los bebés resilientes', con el objetivo de la reducción de la mortalidad infantil, financiado por la Campaña 3FM, Serious Request.
+Este apoyo tanto técnico como financiero se ha dado para la ejecución de proyectos de desarrollo - con enfoques integrales novedosos como el MFS II- así como proyectos de ayuda humanitaria - Emergencia Agatha o Santa Rosa.
+
+Es importante resaltar la ejecución de DIPECHOs anuales desde 2005, a través del liderazgo en el consorcio de Cruz Roja Holandesa con otras Sociedades Nacionales Participantes presentes en el país, la Cruz Roja Española y Cruz Roja Noruega.
+ 
+Para obtener más información del recorrido histórico de nuestra colaboración encuentre el siguiente listado desplegable:
 
 ##Los proyectos
 
