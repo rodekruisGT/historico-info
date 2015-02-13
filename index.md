@@ -37,7 +37,13 @@ Quisieramos brindarle agradecimiento a:
 
 * Cruz Roja Guatemalteca
 
+- - - - - - - - - - 
+
+|
 ![](images/rodekruis-125x50.png)
+- - - - - - - - - -
+¡Atención!: La última actualización de este portal fue realizada el Jueves 12 de febrero de 2015 a las 22:51:46 .
+- - - - - - - - - - 
 
 [p01]: proyectos/p01.md	"Programa para el Desarrollo"
 [p02]: proyectos/p02.md	"Cooperación Holandesa para Ayuda en Centroamérica -CHACA-"
