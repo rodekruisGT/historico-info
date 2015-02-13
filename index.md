@@ -31,19 +31,12 @@ Para obtener más información del recorrido histórico de nuestra colaboración
 13. ####[DIPECHO VIII][p13]
 14. ####[SAMN][p14]
 
-##Agradecimientos
-
-Quisieramos brindarle agradecimiento a:
-
-* Cruz Roja Guatemalteca
-
 - - - - - - - - - - 
 
-|
+&shy;
 ![](images/rodekruis-125x50.png)
 - - - - - - - - - -
-¡Atención!: La última actualización de este portal fue realizada el Jueves 12 de febrero de 2015 a las 22:51:46 .
-- - - - - - - - - - 
+¡Atención!: La última actualización de este portal fue realizada el Jueves 13 de febrero de 2015 a las 12:15 hrs.
 
 [p01]: proyectos/p01.md	"Programa para el Desarrollo"
 [p02]: proyectos/p02.md	"Cooperación Holandesa para Ayuda en Centroamérica -CHACA-"
