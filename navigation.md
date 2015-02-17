@@ -19,7 +19,7 @@
   * [DIPECHO VIII][p13]
   * [SAMN][p14]
 
-[Agradecimientos](index.md#Agradecimientos)
+<!-- [Agradecimientos](index.md#Agradecimientos) -->
 
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](bootsrap)
