@@ -42,15 +42,13 @@ Para obtener más información del recorrido histórico de nuestra colaboración
 - - - - - - - - - - 
 
 ##Agradecimientos
-Cruz Roja Holandesa ha colaborado bilateralmente con Cruz Roja Guatemalteca a lo largo de 18 años, apoyando el desarrollo de la Sociedad Nacional bajo un modelo de trabajo basado en el respeto.  Al recoger el día de hoy la memoria histórica de este gran recorrido de cooperación entre nuestras sociedades nacionales no podemos más que agradecer a su Presidenta, *Doña Annabella Folgar*, a su Director General *Daniel Javiel* y al equipo de Cruz Roja Guatemalteca, por habernos hecho sentir como en casa y haber ejecutado bajo parámetros de altísima calidad técnica los 14 proyectos que esta memoria recoge.
-
-
-Queremos a su vez dar las gracias al cuerpo de voluntarios y al personal de las 11 Delegaciones donde se ejecutaron los proyectos, sin ellos no hubiera sido posible alcanzar en estos 18 años más de 300,000 personas beneficiarias. A su vez queremos reconocer en la distancia al equipo de sede de la central de Cruz Roja Holandesa en La Haya y sus Delegaciones y por supuesto valorar el compromiso y profesionalidad del equipo de Cruz Roja Guatemalteca basado en la Delegación de Cruz Roja Holandesa en Guatemala.
-
-
-Por último deseamos dar la gracias a los miembros del Movimiento de Cruz Roja basados en el país de Guatemala, por la  fraternidad vivida a lo largo de todos estos años. Y por último, no podemos cerrar operaciones en Guatemala sin antes agradecer la confianza que nos depositaron nuestros donantes en Europa financiando con casi 8 millones de euros nuestra colaboración bilateral por 18 años con Cruz Roja Guatemalteca.
-
-> A todos y cada uno de ustedes, gracias.
+Cruz Roja Holandesa ha colaborado bilateralmente con Cruz Roja Guatemalteca a lo largo de 18 años, apoyando el desarrollo de la Sociedad Nacional bajo un modelo de trabajo basado en el respeto. Al recoger el día de hoy la memoria histórica de este gran recorrido de cooperación entre nuestras sociedades nacionales no podemos más que agradecer a la Presidenta de Cruz Roja Guatemalteca *Doña Annabella Folgar*, a su Director General *Daniel Javiel Orellana* y al equipo de Cruz Roja Guatemalteca en general, por habernos hecho sentir como en casa y ejecutar bajo parámetros de altísima calidad técnica los 14 proyectos que esta memoria recoge.
+ 
+Queremos también reconocer al cuerpo de voluntarios y al personal de las 11 Delegaciones donde se ejecutaron los proyectos en el país puesto que sin ellos no hubiera sido posible alcanzar en estos 18 años más de 300,000 personas beneficiarias. Ha sido de vital importancia disponer todos estos años del apoyo técnico del equipo que conforma la sede de Cruz Roja Holandesa en La Haya, sin olvidarnos por supuesto del compromiso y profesionalidad del equipo de Cruz Roja Guatemalteca que ha estado basado en la Delegación de Cruz Roja Holandesa en Guatemala.
+ 
+No podemos cerrar operaciones en Guatemala sin antes agradecer a los miembros del Movimiento de Cruz Roja presentes en el país por los grandes momentos de fraternidad vividos, así como tampoco podemos olvidarnos de extender un sincero agradecimiento a nuestros donantes en Europa, por la confianza que nos depositaron al financiar con casi 8 millones de euros nuestro objetivo de apoyar financiera y técnicamente a Cruz Roja Guatemalteca.
+ 
+> A todos y cada uno de ustedes,  gracias!
 
 - - - - - - - - - - 
 
