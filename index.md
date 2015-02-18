@@ -1,21 +1,29 @@
 #Cruz Roja Holandesa en Guatemala
 
 En el mes de diciembre de 1996 el gobierno de la República de Guatemala y la guerrilla firman los acuerdos de paz, firme y duradera, que pondrán fin a un conflicto armado interno de más de 30 años. Es de esta forma que en el año 1997 la Cruz Roja Holandesa llegaría a Guatemala para apoyar a Cruz Roja Guatemalteca en la asistencia de los desplazados internos del país que han retornado como resultado de estos acuerdos, dando inicio a 18 años de apoyo técnico y financiero para la ejecución de 14 proyectos en 11 delegaciones a lo largo del país.
- 
+
+
 En el mes de Marzo de 2015 la Cruz Roja Holandesa finalmente decide salir de Guatemala y de la región LAC excepto Haití, deseándole muchos éxitos a una Cruz Roja Guatemalteca fortalecida como nunca antes.
+
+- - - - - - - - - - 
 
 ##Historico de proyectos
 
 La Cruz Roja Holandesa ha apoyado a la Cruz Roja Guatemalteca a través de su Plan de Desarrollo desde el año 1997 en base a la Estrategia Internacional 2009 - 2012 "Juntos Podemos" de la NLRC, al Acuerdo Maestro de Cooperación al Movimiento por Guatemala, así como al Plan Interamericano 2007-2011 de la Conferencia Interamericana XVIII.
 
+
 Este apoyo tanto técnico como financiero se ha dado para la ejecución de proyectos de desarrollo - con enfoques integrales novedosos como el MFS II- así como proyectos de ayuda humanitaria - Emergencia Agatha o Santa Rosa.
 
+
 Es importante resaltar la ejecución de DIPECHOs anuales desde 2005, a través del liderazgo en el consorcio de Cruz Roja Holandesa con otras Sociedades Nacionales Participantes presentes en el país, la Cruz Roja Española y Cruz Roja Noruega.
- 
+
+
 Para obtener más información del recorrido histórico de nuestra colaboración encuentre el siguiente listado desplegable:
+- - - - - - - - - - 
 
 ##Los proyectos
 
+- - - - - - - - - - 
 1. ####[Programa para el Desarrollo][p01]
 2. ####[CHACA][p02]
 3. ####[PRRAC-USI HA][p03]
@@ -33,10 +41,23 @@ Para obtener más información del recorrido histórico de nuestra colaboración
 
 - - - - - - - - - - 
 
+##Agradecimientos
+Cruz Roja Holandesa ha colaborado bilateralmente con Cruz Roja Guatemalteca a lo largo de 18 años, apoyando el desarrollo de la Sociedad Nacional bajo un modelo de trabajo basado en el respeto.  Al recoger el día de hoy la memoria histórica de este gran recorrido de cooperación entre nuestras sociedades nacionales no podemos más que agradecer a su Presidenta, *Doña Annabella Folgar*, a su Director General *Daniel Javiel* y al equipo de Cruz Roja Guatemalteca, por habernos hecho sentir como en casa y haber ejecutado bajo parámetros de altísima calidad técnica los 14 proyectos que esta memoria recoge.
+
+
+Queremos a su vez dar las gracias al cuerpo de voluntarios y al personal de las 11 Delegaciones donde se ejecutaron los proyectos, sin ellos no hubiera sido posible alcanzar en estos 18 años más de 300,000 personas beneficiarias. A su vez queremos reconocer en la distancia al equipo de sede de la central de Cruz Roja Holandesa en La Haya y sus Delegaciones y por supuesto valorar el compromiso y profesionalidad del equipo de Cruz Roja Guatemalteca basado en la Delegación de Cruz Roja Holandesa en Guatemala.
+
+
+Por último deseamos dar la gracias a los miembros del Movimiento de Cruz Roja basados en el país de Guatemala, por la  fraternidad vivida a lo largo de todos estos años. Y por último, no podemos cerrar operaciones en Guatemala sin antes agradecer la confianza que nos depositaron nuestros donantes en Europa financiando con casi 8 millones de euros nuestra colaboración bilateral por 18 años con Cruz Roja Guatemalteca.
+
+> A todos y cada uno de ustedes, gracias.
+
+- - - - - - - - - - 
+
 &shy;
 ![](images/rodekruis-125x50.png)
 - - - - - - - - - -
-¡Atención!: La última actualización de este portal fue realizada el Lunes 16 de febrero de 2015 a las 23:30 hrs.
+¡Atención!: La última actualización de este portal fue realizada el Lunes 17 de febrero de 2015 a las 23:10 hrs.
 
 [p01]: proyectos/p01.md	"Programa para el Desarrollo"
 [p02]: proyectos/p02.md	"Cooperación Holandesa para Ayuda en Centroamérica -CHACA-"
