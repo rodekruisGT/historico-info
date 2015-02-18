@@ -55,7 +55,7 @@ No podemos cerrar operaciones en Guatemala sin antes agradecer a los miembros de
 &shy;
 ![](images/rodekruis-125x50.png)
 - - - - - - - - - -
-¡Atención!: La última actualización de este portal fue realizada el Lunes 17 de febrero de 2015 a las 23:10 hrs.
+¡Atención!: La última actualización de este portal fue realizada el Lunes 18 de febrero de 2015 a las 10:05 hrs.
 
 [p01]: proyectos/p01.md	"Programa para el Desarrollo"
 [p02]: proyectos/p02.md	"Cooperación Holandesa para Ayuda en Centroamérica -CHACA-"
